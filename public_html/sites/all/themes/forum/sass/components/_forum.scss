@@ -336,24 +336,25 @@ article, .region-content-bottom, .profile, #user-login{
     padding: 0;
   }
 }
-.view-og-extras-nodes {
+
+#block-views-last-issue-block-2 {
   clear: both;
   table {
     @include table;
+  }
+  .view-header a{
+    @include button;
   } 
 }
 
-.view-og-extras-nodes.view-display-id-entity_view_1{
+#block-views-last-issue-block-2{
   @include res(small-medium){
     display: none;
   }
 }
 
-.view-og-extras-nodes.view-display-id-entity_view_2{
-    display: none;
-  }
-
-.view-og-extras-nodes.view-display-id-entity_view_2{
+#block-views-last-issue-block-1{
+  display: none;
   @include res(small-medium){
     display: block;
     .views-row {
@@ -361,6 +362,9 @@ article, .region-content-bottom, .profile, #user-login{
       margin-bottom: 20px;
       padding: 20px;
     }
+    .view-header a{
+      @include button;
+    } 
     .views-row-odd{
       background-color: #CFD2C8;
     }
@@ -430,17 +434,16 @@ article, .region-content-bottom, .profile, #user-login{
   margin-top: 20px;
   h2 {
     color: #fff;
-    border-bottom: 1px solid #fff;
     background-color: $blue;
     padding: 0 0.5em;
   }
   .block {
     margin-bottom: 40px;
-    border: 1px solid $blue;
     .view-content {
-      margin-top: 20px;
-      padding: 0 1em 1em 1em;
+      margin-top: 0px;
+      padding: 20px 1em 1em 1em;
       box-sizing: border-box;
+      border: 1px solid $blue;
     }
       .views-row{
     border-bottom: 1px solid #ccc;
@@ -452,6 +455,13 @@ article, .region-content-bottom, .profile, #user-login{
   }
 } 
 
+#block-views-last-issue-block{
+  .view-footer{
+    a{
+      @include button;
+    }
+  }
+}
 #block-user-login{
   #user-login-form{
     padding: 0 13px 20px;
@@ -461,15 +471,29 @@ article, .region-content-bottom, .profile, #user-login{
   }
 }
 
-#block-views-last-issue-block{
-  .views-field-og-group-ref a{
-    color: #000;
-  }
-  .views-field-title{
-    float: right;
-    margin-left: 5px;
-  }
+/**********  sidebar  ********/
+
+.sidebar-first .region-sidebar-first {
+    margin-left: 0!important;
+    margin-right: 0!important;
+    width: 25%!important;
+    @include res(small-medium){
+      width: 100%!important;
+      clear: both;
+    }
 }
+
+
+.sidebar-first #content {
+    float: left!important;
+    margin-left: 0!important;
+    margin-right: 0!important;
+    width: 75%!important;
+    @include res(small-medium){
+      width: 100%!important;
+    }
+}
+
 /**************************************************
                     footer   
 **************************************************/
