@@ -1,0 +1,855 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201505 will be lost/reset.
+# Last config file used to build this data file was /home/forum/tmp/awstats/awstats.forum.yadvashem.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2679                
+POS_VISITOR 13296               
+POS_DAY 17706               
+POS_DOMAIN 3535                
+POS_LOGIN 3955                
+POS_ROBOT 4110                
+POS_WORMS 4667                
+POS_EMAILSENDER 4798                
+POS_EMAILRECEIVER 4941                
+POS_SESSION 18442               
+POS_SIDER 18652               
+POS_FILETYPES 5076                
+POS_DOWNLOADS 5317                
+POS_OS 5434                
+POS_BROWSER 5701                
+POS_SCREENSIZE 6526                
+POS_UNKNOWNREFERER 6600                
+POS_UNKNOWNREFERERBROWSER 6687                
+POS_ORIGIN 6880                
+POS_SEREFERRALS 7020                
+POS_PAGEREFS 7173                
+POS_SEARCHWORDS 7321                
+POS_KEYWORDS 7486                
+POS_MISC 2342                
+POS_ERRORS 7560                
+POS_CLUSTER 3811                
+POS_SIDER_404 7692                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150601020935 44 9989 12259037944079
+FirstTime 0
+LastTime 20150531211238
+LastUpdate 20150601121459 44 0 43 0 0
+TotalVisits 220                 
+TotalUnique 105                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 110                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 17 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 11 25 203114 67 80 185852
+1 12 12 142932 15 25 61117
+2 9 9 99134 32 36 147703
+3 15 15 167052 21 23 172466
+4 66 200 2579555 49 77 327032
+5 127 312 6779084 54 74 235349
+6 312 739 16529591 129 148 225735
+7 155 295 4077130 243 276 179409
+8 216 392 5142891 250 271 185180
+9 197 443 5750832 130 170 258208
+10 156 281 4558979 63 88 132856
+11 224 531 8716645 105 144 416673
+12 58 132 2205302 58 75 205909
+13 136 282 4852194 85 131 580687
+14 34 84 1162852 111 121 276970
+15 8 43 299726 218 243 318693
+16 12 12 135832 235 264 242373
+17 25 51 402736 51 64 236810
+18 18 62 1434630 44 55 143157
+19 95 189 2964035 63 136 998074
+20 6 18 129894 41 56 173801
+21 4 4 31998 42 52 186012
+22 11 32 679652 35 46 107232
+23 36 81 1140591 43 60 426042
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+il 1693 3958 66383137
+ru 72 72 806491
+ua 66 66 709169
+zz 34 34 410779
+us 28 56 1282101
+fr 20 20 206527
+cn 7 7 84449
+kr 5 5 19339
+lt 5 5 58275
+cz 4 12 136218
+nl 3 3 34965
+de 3 3 36090
+tw 2 2 7186
+by 1 1 11655
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+bot[\s_+:,\.\;\/\\-] 274 915040 20150531173813 53
+googlebot 82 312430 20150531213228 22
+robot 44 403480 20150531234158 13
+unknown 22 32538 20150529133556 22
+discovery 8 0 20150510131856 0
+crawl 8 44473 20150529095440 4
+spider 7 21464 20150530102900 1
+php 5 300 20150527190743 0
+no_user_agent 4 16092 20150523155255 3
+bingpreview 4 2672 20150527182910 0
+slurp 4 4437 20150529210806 4
+googlebot\-image 2 3562 20150514155001 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 735 2919619 0 0
+png 566 1564617 0 0
+php 3 7327 0 0
+html 317 3748147 0 0
+js 873 22960905 0 0
+jpg 70 1383617 0 0
+docx 17 222209 0 0
+Unknown 1623 37349204 0 0
+gif 40 30736 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/sites/default/files/%D7%A4%D7%95%D7%A8%D7%95%D7%9D.docx 21 0 222209
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+linuxandroid 69 23
+winlong 15 8
+winxp 250 149
+ios_iphone 352 63
+winnt 2 2
+win98 2 2
+linux 12 12
+win7 3382 1585
+macosx 74 14
+winme 2 2
+linuxgentoo 1 1
+winunknown 8 7
+win2003 5 5
+win8 26 26
+win8.1 44 44
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 39
+msie6.0 5 5
+chrome37.0.2062.124 29 29
+safari7.0 138 27
+chrome40.0.2214.94 27 7
+firefox5.0 1 1
+opera12.17 20 20
+chrome34.0.1847.137 1 1
+chrome40.0.2214.111 164 81
+chrome38.0.2125.111 3 3
+firefox34.0 568 366
+chrome42.0.2311.111 69 23
+iphone 1 1
+msie8.0 3 3
+chrome41.0.2272.35 85 17
+chrome42.0.2311.90 116 40
+chrome43.0.2357.81 237 114
+chrome39.0.2171.65 26 26
+chrome41.0.2272.101 2 2
+msie2.0 2 2
+safari8.0 213 35
+msie9.0 589 206
+chrome42.0.2311.152 91 28
+Unknown 10 6
+chrome43.0.2357.65 17 7
+chrome39.0.2171.71 62 62
+opera7.11 2 2
+firefox21.0 11 11
+firefox38.0 54 16
+opera23.0.1522.77 4 4
+msie11.0 86 45
+firefox33.0 33 33
+firefox37.0 913 472
+chrome42.0.2311.135 583 187
+firefox6.0 3 3
+opera26.0.1656.24 16 16
+chrome39.0.2171.99 47 29
+msie 5 5
+firefox36.0 7 7
+firefox3.6.8 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Microsoft_Office_Word_2013_(15.0.4649)_Windows_NT_6.1 20150510131855
+Microsoft_Office_Word_2013 20150506092136
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 206 214
+From1 0 0
+From2 1 1
+From3 0 0
+From4 1736 4029
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+bing 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+yad+vashem 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+vashem 1
+yad 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 304 2179701
+302 359 0
+500 13 14196
+404 1434 2386075
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 99
+/namesproject/calendar.asp 106 -
+/namesproject/new_topic_form.asp 1 -
+/sitemap.xml 1 -
+/robots.txt 10 -
+/teacherheb/forum_posts.asp 1 -
+/teacherita/ 1 -
+/teachereng/member_profile.asp 1 -
+/sites/default/files/styles/media_thumbnail/public/478511_3560465333594_721364988_o_1.jpg 17 http://forum.yadvashem.org/media/browser
+/yv/ 1 -
+/trackback/ 1 http://forum.yadvashem.org
+/templates/cn/template.xml 1 http://forum.yadvashem.org
+/namesproject/remove_cookies.asp 17 -
+/namesproject/help.asp 15 -
+/teachereng/active_topics.asp 3 -
+/fckeditor/fckeditor.js 1 http://forum.yadvashem.org
+/namesproject/mark_posts_as_read.asp 22 -
+/namesproject/calendar_week.asp 731 -
+/teachereng/forum_images/progress_bar.swf 1 -
+/namesproject/active_topics.asp++++++++++++++++++++++++Result:+%F0%E5%F1%F3%F0%F1+%E4%EB%FF+%EF%EE%F1%F2%E8%ED%E3%E0+%ED%E5%EF%F0%E8%E3%EE%E4%E5%ED+%28%EB%E8%E1%EE+%EE%F2%F1%F3%F2%F1%F2%E2%F3%E5%F2+%EF%EE%E4%EA%EB%FE%F7%E5%ED%E8%E5+%EA+%E8%ED%F2%E5%F0%ED%E 1 http://forum.yadvashem.org/namesproject/active_topics.asp++++++++++++++++++++++++Result:+%F0%E5%F1%F3%F0%F1+%E4%EB%FF+%EF%EE%F1%F2%E8%ED%E3%E0+%ED%E5%EF%F0%E8%E3%EE%E4%E5%ED+%28%EB%E8%E1%EE+%EE%F2%F1%F3%F2%F1%F2%E2%F3%E5%F2+%EF%EE%E4%EA%EB%FE%F7%E5%ED%E8%E5+%EA+%E8%ED%F2%E5%F0%ED%E5%F2%F3%29
+/forum_images/FAQ.png 1 -
+/namesproject/default.asp 18 -
+/browserconfig.xml 1 -
+/sites/default/files/styles/media_thumbnail/public/478511_3560465333594_721364988_o_3.jpg 17 http://forum.yadvashem.org/media/browser
+/forum_posts.asp 8 http://forum.yadvashem.org/forum_posts.asp
+/include/fckeditor/fckeditor.js 1 http://forum.yadvashem.org
+/forum_images/forum_banner.jpg 1 -
+/namesproject 2 -
+/teachereng/printer_friendly_posts.asp 7 -
+/teacherita/forum_posts.asp 11 -
+/teachereng/search_form.asp 2 -
+/namesproject/registration_rules.asp 3 http://forum.yadvashem.org/namesproject/registration_rules.asp
+/phpmoadmin/moadmin.php 1 http://forum.yadvashem.org
+/FCKeditor/fckeditor.js 1 http://forum.yadvashem.org
+/Administrator/fckeditor/fckeditor.js 1 http://forum.yadvashem.org
+/_fckeditor/fckeditor.js 1 http://forum.yadvashem.org
+/templets/default/style/dedecms.css 1 http://forum.yadvashem.org
+/forum_images/rss.png 1 -
+/teachereng/registration_rules.asp 1 -
+/apple-touch-icon-120x120.png 1 -
+/moadmin.php 1 http://forum.yadvashem.org
+/teachereng/new_reply_form.asp 3 -
+/template/default/common/footer.htm 1 http://forum.yadvashem.org
+/teachereng/ 6 -
+/teacherheb 2 -
+/js/transport.js 1 http://forum.yadvashem.org
+/teachereng 4 -
+/apple-touch-icon-120x120-precomposed.png 1 -
+/teachereng/help.asp 2 -
+/wp-login.php 3 http://forum.yadvashem.org/wp-login.php
+/namesproject/active_topics.aspindex.php 1 http://forum.yadvashem.org/namesproject/active_topics.aspindex.php
+/content/uxui 2 -
+/moadmin/moadmin.php 1 http://forum.yadvashem.org
+/editor/fckeditor.js 1 http://forum.yadvashem.org
+/namesproject/get_last_post.asp 18 -
+/forum_images/register.png 1 -
+/js/tools.js 1 http://forum.yadvashem.org
+/apple-touch-icon.png 2 -
+/teacherita/login_user.asp 4 http://forum.yadvashem.org/teacherita/login_user.asp
+/wp-includes/css/buttons.css 1 http://forum.yadvashem.org
+/forum_images/forum_home.png 1 -
+/teacherheb/help.asp 1 -
+/namesproject/includes/progress_bar.asp 1 -
+/forum_images/login.png 1 -
+/sites/default/files/styles/media_thumbnail/public/478511_3560465333594_721364988_o_4.jpg 17 http://forum.yadvashem.org/media/browser
+/wp-includes/wlwmanifest.xml 1 http://forum.yadvashem.org
+/js/fckeditor/fckeditor.js 1 http://forum.yadvashem.org
+/sites/default/files/styles/media_thumbnail/public/478511_3560465333594_721364988_o.jpg 17 http://forum.yadvashem.org/media/browser
+/catalog/view/javascript/common.js 1 http://forum.yadvashem.org
+/teacherheb/ 6 -
+/js/mage/cookies.js 1 http://forum.yadvashem.org
+/yv/members 1 -
+/namesproject/forum_topics.asp 52 -
+/Administrator/FCKeditor/fckeditor.js 1 http://forum.yadvashem.org
+/sites/default/files/styles/media_thumbnail/public/478511_3560465333594_721364988_o_5.jpg 17 http://forum.yadvashem.org/media/browser
+/FCKEditorV2/fckeditor.js 1 http://forum.yadvashem.org
+/teachereng/forum_topics.asp 16 -
+/apple-touch-icon-precomposed.png 2 -
+/sites/default/files/styles/media_thumbnail/public/478511_3560465333594_721364988_o_0.jpg 17 http://forum.yadvashem.org/media/browser
+/forum_images/asc.png 1 -
+/namesproject/forum_posts.asp 4 http://forum.yadvashem.org/
+/fck/fckeditor.js 1 http://forum.yadvashem.org
+/forum_images/calendar.png 1 -
+/common/fckeditor/fckeditor.js 1 http://forum.yadvashem.org
+/sites/default/files/styles/media_thumbnail/public/elul%20tashad%20356.JPG 17 http://forum.yadvashem.org/media/browser
+/sites/default/files/styles/media_thumbnail/public/478511_3560465333594_721364988_o_2.jpg 17 http://forum.yadvashem.org/media/browser
+/forum_images/unanswered_topics.png 1 -
+/forum_images/search.png 1 -
+/fckeditor.js 1 http://forum.yadvashem.org
+/namesproject/ 1 -
+/teachereng/get_last_post.asp 10 -
+/includes/general.js 2 http://forum.yadvashem.org
+/content 1 -
+/teachereng/login_user.asp 1 -
+/namesproject/RSS_topic_feed.asp 2 -
+/teachereng/new_topic_form.asp 1 http://forum.yadvashem.org/teachereng/new_topic_form.asp
+/teachereng/default.asp 2 -
+/namesproject/member_profile.asp 2 -
+/namesproject/active_topics.asp 37 http://honey-family.ru/
+/teachereng/forum_posts.asp 107 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 110
+212.143.122.2 853 1814 27175727 20150531090452
+5.28.144.101 238 548 16154593 20150513065125
+5.28.144.16 137 253 4932968 20150514113625
+212.143.122.4 84 160 2089752 20150528150421
+93.173.237.239 77 184 2898867 20150528061709
+5.28.145.248 75 160 2562542 20150510095233
+91.200.12.95 40 40 415728 20150516234541
+104.255.68.207 30 30 363611 20150530083130
+5.28.145.180 29 90 1419601 20150505092044
+212.143.122.13 29 47 467761 20150511083129
+176.228.150.54 19 21 406080 20150512122101
+213.57.145.172 19 88 601189 20150529212913
+89.139.52.186 17 52 883582 20150514230855
+5.28.144.171 14 44 462546 20150519051942
+85.250.93.110 13 62 927943 20150505053559
+46.19.86.166 11 12 241627 20150528124249
+81.218.147.75 11 46 775122 20150512144644
+80.246.130.132 11 11 203880 20150512132648
+37.187.56.81 11 11 100711 20150522130339
+93.173.163.214 10 59 779077 20150510164212
+37.113.17.108 10 10 111644 20150527231823
+212.124.11.182 8 8 94336 20150527120520
+85.250.118.114 7 27 639061 20150506092055
+212.124.13.75 7 7 71870 20150516163528
+66.249.81.228 6 11 88899 20150531071739
+66.249.81.225 3 8 115206 20150514065150
+203.133.170.104 1 1 3868 20150531081457
+31.193.196.98 5 5 58275 20150527165809
+195.154.173.141 4 4 46620 20150518145027
+46.19.85.128 3 31 194514 20150505064413
+82.166.158.115 3 28 599860 20150513105242
+212.178.5.220 2 2 23310 20150522131906
+46.19.86.105 1 11 59973 20150510094124
+37.113.12.199 2 2 23310 20150515164437
+204.195.139.6 4 4 46620 20150523085830
+46.117.113.4 5 20 193979 20150527192852
+203.133.168.197 1 1 3868 20150529122142
+212.124.14.155 1 1 11655 20150522174914
+159.224.160.157 3 3 35247 20150525152316
+203.133.168.215 1 1 3867 20150528044344
+109.126.216.45 4 4 51668 20150530191815
+155.133.19.170 2 2 24435 20150528005705
+84.53.211.190 2 2 23584 20150519082031
+107.150.43.74 1 1 12780 20150528102323
+212.83.131.207 2 2 23310 20150517172333
+109.126.237.223 5 5 48560 20150514175857
+79.165.254.87 1 1 11655 20150517033418
+199.15.233.176 2 2 23310 20150526015705
+188.16.23.240 1 1 11655 20150518073113
+91.200.12.71 4 4 51120 20150531095147
+89.138.46.224 2 2 23310 20150522164223
+109.126.201.159 2 2 23584 20150519112151
+209.147.118.51 0 2 39880 
+58.23.18.230 2 2 23310 20150522073159
+46.28.66.242 2 2 15248 20150526232758
+46.116.186.36 1 1 12780 20150527235144
+111.172.97.53 1 1 12780 20150531103600
+112.90.231.13 1 1 11655 20150518044010
+193.19.132.5 1 1 11655 20150519120750
+93.173.8.52 1 1 17062 20150528180457
+162.244.13.178 4 4 47168 20150515023822
+46.19.85.44 0 10 57258 
+46.118.117.106 1 1 11655 20150527101321
+92.54.98.243 1 1 12780 20150531211238
+46.19.85.62 1 10 60400 20150529072027
+208.115.124.146 2 2 25560 20150530203131
+209.147.118.167 1 6 16333 20150516120817
+46.19.85.106 0 10 57258 
+94.103.230.102 1 1 3866 20150530201010
+58.23.232.121 2 2 23924 20150514003248
+5.28.144.160 2 10 82368 20150517103227
+91.212.124.147 2 2 23310 20150519194852
+91.200.12.40 5 5 51966 20150516032307
+109.126.204.206 5 5 58275 20150521191045
+93.173.250.102 2 16 104542 20150512001200
+89.138.237.143 3 10 71730 20150517175025
+37.212.219.52 1 1 11655 20150522132847
+193.86.243.7 4 12 136218 20150527194033
+67.222.137.45 4 4 44181 20150528050643
+93.173.183.12 6 27 627386 20150518225012
+199.15.233.156 4 4 40311 20150522022454
+203.133.168.32 1 1 3867 20150528093626
+46.229.167.149 2 2 23310 20150522000100
+46.19.86.74 1 10 60210 20150530092627
+84.53.224.94 2 2 23310 20150522160710
+91.200.12.99 1 1 11655 20150515170128
+46.19.86.2 3 18 124413 20150510151917
+111.12.251.162 1 1 12780 20150530085039
+212.143.122.6 1 11 66031 20150503110935
+62.210.82.105 3 3 35886 20150513235201
+125.227.255.30 2 2 7186 20150519203906
+95.24.203.167 1 1 12780 20150531210256
+37.113.31.130 4 4 41539 20150514100428
+37.113.24.226 4 4 40304 20150515221932
+66.249.81.231 1 12 829021 20150512191236
+46.211.11.40 2 2 23310 20150521032137
+213.133.97.216 1 1 11655 20150515104243
+95.66.129.162 6 6 74978 20150531132638
+95.211.83.38 1 1 11655 20150519073829
+203.133.170.82 1 1 3869 20150529084915
+46.19.86.241 1 10 60398 20150528052850
+176.102.34.162 1 1 11655 20150525124809
+178.49.154.57 2 2 23310 20150517172806
+37.113.15.238 3 3 31828 20150516035139
+46.118.120.51 2 2 23310 20150524185430
+5.102.197.17 1 1 11655 20150515175500
+85.250.224.229 1 23 143603 20150509205815
+46.19.85.177 0 10 57258 
+46.19.86.187 1 1 18234 20150528135935
+46.19.86.53 0 9 56997 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20150503 8 28 168833 3
+20150504 78 191 2010963 3
+20150505 63 208 3070616 5
+20150506 25 108 1077776 3
+20150509 1 13 86345 1
+20150510 235 567 7806689 7
+20150511 133 265 4023572 6
+20150512 135 359 6608485 12
+20150513 379 860 20822139 14
+20150514 170 324 6039238 8
+20150515 15 15 169057 9
+20150516 57 64 631198 16
+20150517 69 104 1500879 9
+20150518 36 95 2052115 7
+20150519 65 150 1947081 9
+20150520 17 27 313204 11
+20150521 15 15 176195 7
+20150522 32 32 339705 13
+20150523 3 3 34965 2
+20150524 4 4 46620 3
+20150525 19 55 587475 4
+20150526 5 14 112927 5
+20150527 108 234 3463542 16
+20150528 219 411 6171876 21
+20150529 10 37 233466 8
+20150530 14 23 218806 8
+20150531 28 38 472614 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 13
+5mn-15mn 10
+2mn-5mn 18
+0s-30s 155
+15mn-30mn 9
+30s-2mn 7
+30mn-1h 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 295
+/ 292 3720292 153 103
+/content/%D7%9B%D7%9C%D7%9C%D7%99 119 2349961 4 8
+/user 84 786313 9 9
+/content/%D7%93%D7%99%D7%95%D7%95%D7%97-%D7%AA%D7%A7%D7%9C%D7%95%D7%AA 84 1522775 2 1
+/user/password 77 486042 6 18
+/content/%D7%A4%D7%95%D7%A8%D7%95%D7%9D-%D7%99%D7%93-%D7%95%D7%A9%D7%9D 65 886953 0 22
+/content/%D7%94%D7%A6%D7%A2%D7%95%D7%AA-%D7%9C%D7%A4%D7%99%D7%A6%D7%A8%D7%99%D7%9D-%D7%95%D7%A8%D7%A2%D7%99%D7%95%D7%A0%D7%95%D7%AA-%D7%A0%D7%95%D7%A1%D7%A4%D7%99%D7%9D 54 677352 5 8
+/content/uxui-%D7%97%D7%95%D7%95%D7%99%D7%AA-%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9-0 48 526677 2 5
+/content/%D7%94%D7%A2%D7%A8%D7%95%D7%AA-%D7%95%D7%A9%D7%90%D7%9C%D7%95%D7%AA-%D7%A2%D7%9C-%D7%9E%D7%91%D7%A0%D7%94-%D7%94%D7%A4%D7%95%D7%A8%D7%95%D7%9D 47 764470 0 7
+/content/%D7%92%D7%99%D7%A8%D7%A1%D7%94-%D7%97%D7%93%D7%A9%D7%94-%D7%9C-yvng 37 549027 1 1
+/node/add/discuss 34 703729 0 1
+/content/%D7%A7%D7%91%D7%9C%D7%AA-%D7%9E%D7%99%D7%99%D7%9C%D7%99%D7%9D 28 436495 0 2
+/content/%D7%A2%D7%95%D7%93%D7%9B%D7%A0%D7%94-%D7%92%D7%99%D7%A8%D7%A1%D7%94-1006 27 458419 2 6
+/admin/users 26 1736862 0 0
+/media/browser 25 928400 0 0
+/admin/config/regional/translate/translate 24 434032 0 1
+/content/%D7%A2%D7%A8%D7%9B%D7%99-%D7%A9%D7%93%D7%95%D7%AA-%D7%91%D7%90%D7%95%D7%AA%D7%99%D7%95%D7%AA-%D7%92%D7%93%D7%95%D7%9C%D7%95%D7%AA 23 342452 3 1
+/content/%D7%91%D7%A2%D7%99%D7%94-%D7%91%D7%A1%D7%99%D7%A4%D7%95%D7%A8 23 314117 0 0
+/content/%D7%94%D7%A4%D7%95%D7%A8%D7%95%D7%9D-%D7%9E%D7%90%D7%93-%D7%9E%D7%90%D7%93-%D7%90%D7%99%D7%98%D7%99 23 326522 0 1
+/admin/content 22 444098 0 1
+/user/13/edit 20 403710 0 0
+/user/97/edit 20 326662 0 1
+/content/%D7%A4%D7%95%D7%A8%D7%95%D7%9E%D7%99%D7%9D 19 310978 12 2
+/content/%D7%94%D7%A1%D7%91%D7%AA-%D7%A9%D7%98%D7%95%D7%97%D7%99%D7%9D-%D7%9C%D7%9E%D7%A7%D7%95%D7%91%D7%A6%D7%99%D7%9D-%D7%91%D7%A1%D7%A4%D7%99%D7%A8-%D7%91%D7%9E%D7%90%D7%92%D7%A8-%D7%94%D7%A9%D7%9E%D7%95%D7%AA 19 310208 0 2
+/content/%D7%94%D7%9E%D7%99%D7%99%D7%9C-%D7%A9%D7%9E%D7%AA%D7%A7%D7%91%D7%9C-%D7%9E%D7%94%D7%A4%D7%95%D7%A8%D7%95%D7%9D 18 246921 0 0
+/node/18 1 17700 0 0
+/group/node/16/subscribe/og_user_node 1 9623 0 0
+/comment/reply/25 1 20625 0 0
+/admin/config/workflow/rules/reaction/manage/rules_og_new_content/autocomplete/data/form-PeDnuJMOw8RtWDam_qGm4SSYf1O_i7xjgOCzaaATjBE/list-item: 1 9058 0 0
+/js/admin_menu/cache/628aaf9e1445d621966b4af12825c589 1 4689 0 0
+/comment/reply/35 1 26074 0 0
+/admin/config/workflow/rules/reaction/manage/rules_og_new_content/autocomplete/entity/form-RRg7iiPQyS2xHVOBS-Hs12PmppYPeiyq6eq5ZeyJQ9U/ 1 491 0 0
+/user/106/edit 2 31406 0 0
+/comment/reply/22 1 19515 0 0
+/admin/reports/event/3471 1 9151 0 0
+/admin/config/group/permissions 2 16745 0 0
+/admin/config/workflow/rules/reaction/manage/rules_og_new_content/autocomplete/subject/form-oCssglLERijvoXdtiWBdl1LB7o56zrARis0wwntDYQ0/ 1 688 0 0
+/node/22 2 30669 1 1
+/sites/default/files/ 4 0 0 0
+/admin/config/regional/date-time 1 12795 0 1
+/comment/10 1 16612 0 0
+/user/90/edit 2 31372 0 0
+/admin/structure/views/ajax/config-item/users/page/field/views_bulk_operations 2 185272 0 0
+/admin/structure/types/manage/discuss/fields/og_group_ref 1 43176 0 0
+/og/autocomplete/single/og_user_node/user/user/admin/133/%D7%94 1 420 0 0
+/user/autocomplete/br 2 38 0 0
+/admin/config/people/comment_notify 7 5166941 0 0
+/admin/config/workflow/rules/reaction/manage/rules_mail_new_user/add/event 1 14014 0 0
+/og/autocomplete/single/og_user_node/user/user/admin/132/%D7%94 1 420 0 0
+/comment/1 2 14033 1 0
+/node/26 1 11755 0 0
+/user/107/edit 2 31416 0 0
+/batch 13 43398 0 0
+/comment/reply/19/4 2 36506 0 0
+/admin/config/workflow/rules/reaction/manage/1/disable 1 9612 0 0
+/comment/reply/25/14 2 38158 0 0
+/admin/config/workflow/rules/reaction/manage/rules_og_new_content 15 680088 0 0
+/user/26/edit 2 37040 0 0
+/admin/config/workflow/rules/reaction/manage/og_og_new_content_notification_comments/autocomplete/data/form-U-ZfzLFvKhlw6AvpvAlL17a8WiJdy8kIcziEaaPsXrU/comment: 1 4737 0 0
+/admin/config/workflow/rules/reaction/manage/4/clone 1 12980 0 0
+/comment/reply/28/24 1 18674 0 0
+/admin/config/workflow/rules/reaction/manage/og_og_new_content_notification_comments/edit/5 1 26818 0 0
+/comment/reply/23/9 1 20213 1 1
+/og/autocomplete/single/og_user_node/user/user/admin/132/%D7%93 1 207 0 0
+/admin/config/workflow/rules/reaction/manage/og_og_new_content_notification_comments/delete/8 1 9778 0 0
+/node/36/group 1 8780 0 0
+/admin/config/workflow/rules/reaction/manage/og_og_new_content_notification_comments/autocomplete/entity/form-eh83090F3KpaeZaALiKu-TvCI6CWvh_J3H20h5qEp8o/ 2 1006 0 0
+/user/reset/105/1431505676/Rgs2CpxM7y2l5zFohGlWgCJjEKfALNloAeuctEo_izM 1 2720 0 0
+/admin/people/permissions 3 794393 0 0
+/user/reset/89/1430727580/pLGOIYU5mPSbxElmP4WATs603gFQIE40xBMWbk9jGnc 1 2720 0 0
+/admin/config/people/accounts/fields/field_mail_new_post 3 50519 0 0
+/comment/4 3 36524 0 0
+/admin/config/workflow/rules/reaction/manage/og_og_new_content_notification_comments/edit/8 1 13456 0 0
+/admin/config/system/backup_migrate 4 849601 0 0
+/js/admin_menu/cache/7f2ca1e4cdb7563d8f84042e15647fc3 2 9382 0 0
+/comment/reply/25/10 2 50814 0 0
+/admin/structure/views/view/users/edit/page 2 74158 0 0
+/admin/config/workflow/rules 13 247033 0 0
+/comment/reply/28 2 38264 0 0
+/user/29/edit 4 67032 0 0
+/comment/reply/37/15 1 25033 0 0
+/content/%D7%A2%D7%95%D7%93-%D7%93%D7%95%D7%9F 1 16910 0 0
+/user/94/edit 6 96010 0 0
+/admin/config/workflow/rules/reaction/manage/rules_og_new_content/autocomplete/data/form-t2oHTvX40h_mMlozp4yCd0eiBkIpw7K-r-mxUEkx1ns/ 1 1287 0 0
+/admin/config/workflow/rules/reaction/manage/rules_og_new_content/autocomplete/from/form-oCssglLERijvoXdtiWBdl1LB7o56zrARis0wwntDYQ0/ 1 688 0 0
+/admin/config/regional/translate/edit/6310 2 19234 0 0
+/user/reset/99/1431248955/ltEklDdIuQ4uaPSY7D8xnbIO0pk0ItnokEhKgcidu-I 1 2715 1 1
+/admin/config/workflow/rules/reaction/manage/rules_og_new_content/autocomplete/data/form-PeDnuJMOw8RtWDam_qGm4SSYf1O_i7xjgOCzaaATjBE/group-members: 1 1249 0 0
+/content/%D7%AA%D7%A4%D7%A7%D7%95%D7%93-%D7%94%D7%9E%D7%A4%D7%94 10 137011 0 0
+/admin/config/workflow/rules/reaction/manage/og_og_new_content_notification_comments/autocomplete/data/form-U-ZfzLFvKhlw6AvpvAlL17a8WiJdy8kIcziEaaPsXrU/list-item: 1 10359 0 0
+/admin/structure/menu/parents 1 2 0 0
+/admin/config/workflow/rules/reaction/manage/rules_og_new_content/autocomplete/subject/form-oCssglLERijvoXdtiWBdl1LB7o56zrARis0wwntDYQ0/node:og-group-ref: 1 841 0 0
+/group/node/15/unsubscribe 1 9763 0 0
+/comment/9 1 14322 1 0
+/user/133/edit 1 20031 0 0
+/user/reset/99/1431248932/-muZTznMsefq_MDmABIXQx46oFD_CMu24rGxMmCgR10 1 2720 0 0
+/comment/13 1 21441 0 0
+/content/%D7%A9%D7%9D-%D7%9E%D7%A9%D7%A4%D7%97%D7%94-%D7%97%D7%A1%D7%A8 6 72780 1 0
+/node/31 3 44749 0 0
+/admin/config/workflow/rules/reaction/manage/rules_og_new_content/edit/8 1 13478 0 0
+/user/27/edit 4 67823 0 0
+/admin/config/workflow/rules/reaction/manage/og_og_new_content_notification_comments/edit/10 1 13463 0 0
+/users/giladamrami 3 39231 0 0
+/admin/reports/status 1 50097 0 0
+/admin/config/regional/language 2 28466 0 0
+/group/node/16/unsubscribe 1 9585 0 0
+/group/node/17/subscribe/og_user_node 8 84885 0 0
+/user/reset/89/1431248955/SNJmBR_-V0J-VakbzMmXrJNAj8A9kFRknuA-y7vvrSU 2 5438 1 0
+/comment/reply/37/17 1 25026 0 0
+/user/96/edit 2 33338 0 0
+/comment/reply/23 3 65241 0 1
+/admin/config/regional/translate/edit/6202 1 9542 0 0
+/admin/config/development/performance 1 13484 0 0
+/admin/reports/dblog 2 59864 0 0
+/user/1/edit 1 20200 0 0
+/admin/structure/types/manage/discuss/fields/group_content_access 1 16607 0 0
+/admin/config/workflow/rules/reaction/manage/og_og_new_content_notification_comments/autocomplete/group_content/form-op_Jf5boHM0-keNGo_rJg3S_PrW9kpVtr4YCve27fss/ 2 1006 0 0
+/user/reset/84/1432791540/2LwVSzs1BfOk2RhZzOIAPDlr2TXP8eUuQVEBO0TNDYI 1 2809 0 0
+/js/admin_menu/cache/b117bfa53bae5f84ecf3bfbc9d36363b 1 4756 0 0
+/admin/modules 7 1045646 0 0
+/admin/config/people/accounts/fields/og_user_node 1 26556 0 0
+/admin/config/workflow/rules/reaction/manage/rules_og_new_content/autocomplete/from/form-oCssglLERijvoXdtiWBdl1LB7o56zrARis0wwntDYQ0/node: 1 4136 0 0
+/js/admin_menu/cache/d18fcfcd45499ffdadb7e0e004517518 3 14337 0 0
+/comment/23/edit 1 25680 0 0
+/admin/modules/install 1 9833 0 0
+/admin/config/people/accounts/fields/field_mail_new_comment 2 33597 0 0
+/comment/reply/37 1 25168 0 0
+/js/admin_menu/cache/871269df043add8668f025e8f464c5b2 1 4761 0 0
+/comment/reply/29/31 1 18645 0 0
+/user/reset/96/1431331718/jRPsf-HNf15i1_bxRE-Ycw4dtH6dXduI4mSU7xCiX7Y 1 2718 0 0
+/content/%D7%92%D7%99%D7%A8%D7%A1%D7%94-1003-%D7%91%D7%97%D7%95%D7%A5-%D7%95%D7%92%D7%9D-%D7%91%D7%A4%D7%A0%D7%99%D7%9D 8 109009 0 1
+/admin/config/workflow/rules/reaction/manage/og_og_new_content_notification_comments/autocomplete/entity/form-eh83090F3KpaeZaALiKu-TvCI6CWvh_J3H20h5qEp8o/comment: 1 1626 0 0
+/comment/reply/28/26 1 18845 0 0
+/js/admin_menu/cache/fe10b9bfc24cff8d056625017f7e7b82 1 4697 0 0
+/media/38/format-form 2 20338 0 0
+/media/39/format-form 1 9956 0 0
+/user/105/edit 9 151006 0 0
+/admin/config/workflow/rules/reaction/manage/og_og_new_content_notification_comments/edit/4 1 20993 0 0
+/users/admin 2 66615 0 0
+/admin/config/people/accounts/fields 13 477067 0 0
+/admin/structure/types/manage/discuss/fields 2 68898 0 0
+/comment/reply/32 3 57222 0 0
+/user/reset/94/1432788176/Nkqaz7j7_h5YC53xE3uqfNLX44hLyiiFPh8S9UO6rOg 1 2803 0 0
+/admin/config/regional/translate 1 44296 0 0
+/users/chaimbenyamin 1 12100 0 0
+/admin/config/workflow/rules/reaction/manage/rules_og_new_content/autocomplete/subject/form-oCssglLERijvoXdtiWBdl1LB7o56zrARis0wwntDYQ0/node: 1 4136 0 0
+/admin/config/workflow/rules/reaction/manage/rules_og_new_content/autocomplete/subject/form-S094K400sHN9pT7iJPikW7_qttiTjM0iggHR95KQHjE/ 1 688 0 0
+/user/99/edit 4 64952 0 0
+/comment/reply/29 2 37877 0 0
+/node/17/edit 1 18847 0 0
+/user/reset/106/1430814243/ttleQP3fwbLhKOVqs2m35B4I7_p0q_unzNxvzw4mj24 1 2713 0 0
+/user/89/edit 7 110499 0 0
+/admin/discuss 7 153563 0 0
+/media/40/format-form 1 9062 0 0
+/user/132/edit 1 20006 0 0
+/admin/config/regional/translate/edit/6197 1 9567 0 0
+/og/autocomplete/single/og_user_node/user/user/admin/133/%D7%93 1 207 0 0
+/node/16/edit 1 18791 0 0
+/node/4/edit 8 178314 0 0
+/user/84/edit 4 63272 0 0
+/comment/reply/27/17 2 37269 0 0
+/admin/config/workflow/rules/reaction/manage/5/enable 2 18790 0 0
+/comment/reply/31 2 38101 0 0
+/admin/config/workflow/rules/reaction/manage/rules_mail_new_user 2 42099 0 0
+/admin/config/workflow/rules/reaction/manage/rules_og_new_content/add/2/condition 1 12704 0 0
+/import 1 13004 0 0
+/users/chanakramer 2 20258 0 0
+/comment/reply/37/16 1 25026 0 0
+/js/admin_menu/cache/a81e6124fec2d3c598655acb038ff8e9 5 23880 0 0
+/node/29 2 25455 0 0
+/admin/config/workflow/rules/reaction/manage/rules_og_new_content/autocomplete/data/form-t2oHTvX40h_mMlozp4yCd0eiBkIpw7K-r-mxUEkx1ns/list-item: 1 9058 0 0
+/users/ayalacohen 11 98252 0 0
+/node/22/edit 1 23467 0 1
+/node/26/group 1 9089 0 0
+/user/reset/27/1431248960/-Qheyget1EGj7ztPqRSAwuOMCWkHa4KN_DozMLXEGps 1 2718 0 0
+/user/reset/94/1431248932/TqP2Mg8JmCM1OxOSXedq5xl-47HTR-UWg6l_vP7ZJUM 1 2722 0 0
+/admin/structure/views/view/users/export 1 31159 0 0
+/admin/config/workflow/rules/reaction/manage/5 2 104746 0 0
+/comment/reply/19/6 1 18970 0 0
+/comment/reply/19 5 95108 0 1
+/users/michaellieber 1 15002 0 0
+/admin/structure/views/ajax/config-item/users/page/field/og_user_node 2 86633 0 0
+/admin/people 14 664313 0 1
+/admin/structure/views/view/users/preview/page/ajax 3 392774 0 0
+/content/%D7%A2%D7%95%D7%93%D7%9B%D7%A0%D7%94-%D7%92%D7%99%D7%A8%D7%A1%D7%94-1005 15 193546 3 1
+/admin/people/create 3 57779 0 0
+/admin/config/administration/admin_menu 1 50072 0 0
+/user/reset/29/1431248958/2hxpWJIHnl8TISY3c2NzGNd2hRG7shWvEgdzrdRrHrQ 2 5434 1 0
+/admin/config/workflow/rules/reaction/manage/rules_og_new_content/delete/7 1 9783 0 0
+/user/reset/105/1432552508/m4DYH-fAfqCjiyAYbhsfzEC9FdJ7Ga5UX1_-o5Gonrc 1 2657 1 0
+/media/43/format-form 1 9666 0 0
+/admin/config/workflow/rules/reaction/manage/og_og_new_content_notification_comments 8 431291 0 0
+/admin/config/workflow/rules/reaction/manage/og_og_new_content_notification_comments/autocomplete/group_content/form-op_Jf5boHM0-keNGo_rJg3S_PrW9kpVtr4YCve27fss/comment: 1 1626 0 0
+/user/reset/29/1431843371/LODQ7ddgEcDX1GCLXCGTj7oAHKuyOMsFE7iHSFk9g6A 1 2657 0 0
+/admin/structure/types/manage/discuss 1 33218 0 0
+/content/%D7%91%D7%A2%D7%99%D7%94-%D7%91%D7%9E%D7%A1%D7%A4%D7%A8-%D7%93%D7%A3 14 177841 0 0
+/admin/config/workflow/rules/reaction/manage/rules_mail_new_user/delete/3 1 9818 0 0
+/file/ajax/upload/form-XXpIKf7fJrXMRlEI4wguI3BLuAXDIxSU1bfGRGDO4Xk 2 7249 0 0
+/user/reset/94/1431858766/wV3AEn739RC45t5WZqSl1MagiNehRq9xM8DKJQEeXlw 1 2655 0 0
+/comment/reply/33 1 19144 0 0
+/admin/config/workflow/rules/reaction/manage/rules_og_new_content/autocomplete/data/form-PeDnuJMOw8RtWDam_qGm4SSYf1O_i7xjgOCzaaATjBE/ 1 1287 0 0
+/admin/config/people/accounts/fields/field_mail_new_post/field-settings 1 11668 0 0
+/node/32 2 28658 0 1
+/comment/23/delete 1 14489 0 0
+/system/ajax 16 1088512 0 0
+/content/%D7%A2%D7%95%D7%93%D7%9B%D7%A0%D7%94-%D7%92%D7%99%D7%A8%D7%A1%D7%94-1004 12 156661 0 0
+/admin/config/workflow/rules/reaction/manage/rules_og_new_content/autocomplete/from/form-oCssglLERijvoXdtiWBdl1LB7o56zrARis0wwntDYQ0/node:author: 1 5309 0 0
+/admin/config/workflow/rules/reaction/manage/og_og_new_content_notification_comments/edit/3 1 19265 0 0
+/admin/config/people/accounts/display 5 100459 0 0
+/file/progress/260268034 1 48 0 0
+/node/37 1 20491 0 0
+/admin/config/workflow/rules/reaction/manage/rules_og_new_content/autocomplete/subject/form-S094K400sHN9pT7iJPikW7_qttiTjM0iggHR95KQHjE/node: 1 3930 0 0
+/comment/2 3 57838 1 0
+/admin/config/regional/translate/edit/607 2 19129 0 0
+/admin/config/workflow/rules/reaction/manage/1 2 51558 0 0
+/node/1/edit 1 18274 0 0
+/node/33 2 25351 0 0
+/user/reset/84/1431248932/WZ7tk-NDQk3MPNOACZdIsDRzgIj4x0YRkORSUJurKpE 1 2721 0 0
+/node/18/edit 2 54224 0 0
+/admin/config/workflow/rules/reaction/manage/og_og_new_content_notification_comments/autocomplete/entity/form-qFGq5tcyxfLcZB8sazmPXvMqjXTepefGoBnD1IMlw94/ 2 760 0 0
+/comment/reply/28/25 1 18597 0 0
+/admin/config/workflow/rules/reaction/manage/5/disable 2 18800 0 0
+/media/37/format-form 1 9632 0 0
+/user/104/edit 1 17840 0 0
+/user/reset/107/1430816147/O4YuzbYiPWaKj4PoOyx8SuGeih5P4xBRH4JrwTkbGHI 1 2720 0 0
+/node/add/forumgroup 4 91963 0 0
+/admin/config/workflow/rules/reaction/manage/og_og_new_content_notification_comments/add/event 1 14014 0 0
+/comment/reply/27 4 91236 0 0
+/content/%D7%A4%D7%95%D7%A8%D7%95%D7%9D-%D7%A0%D7%99%D7%A1%D7%99%D7%95%D7%9F 14 293401 0 0
+/admin/config/workflow/rules/reaction/manage/rules_og_new_content/autocomplete/data/form-1M8S8Ta4EylGVh9Tf53OsH4QME2fVzEKj-OtQrd4fCg/ 1 1007 0 0
+/node/28 8 106839 0 0
+/user/login 6 40143 0 0
+/group/node/36/admin/people/add-user 2 21574 0 0
+/admin/config/workflow/rules/reaction/manage/rules_og_new_content/edit/6 6 712146 0 0
+/user/reset/97/1431248955/fHBMURjX8lz9V9pR3T056AI3aoXZOuf92Xx_gHETbqo 3 8163 0 0
+/js/admin_menu/cache/e5cfc1d9ce61966e7a86a3046ddde494 1 4732 0 0
+/file/progress/689135149 2 96 0 0
+/admin/config/regional/translate/edit/6312 1 9572 0 0
+/js/admin_menu/cache/a402b53dcee6a231eb0baf5027d1e3fa 1 4779 0 1
+/comment/reply/18 6 138701 0 1
+/user/autocomplete/b 1 19 0 0
+/user/28/edit 4 67921 0 0
+/admin/config/workflow/rules/reaction/manage/og_og_new_content_notification_comments/add-predicate/7/if 2 26288 0 0
+/admin/config/workflow/rules/reaction/manage/og_og_new_content_notification_comments/autocomplete/data/form-U-ZfzLFvKhlw6AvpvAlL17a8WiJdy8kIcziEaaPsXrU/ 1 1299 0 0
+/content/%D7%A0%D7%99%D7%A1%D7%99%D7%95%D7%9F 4 75350 0 0
+/node/37/edit 1 25670 0 0
+/js/admin_menu/cache/d6a9ca18c24c82433dde09cf403c36d1 1 4701 0 0
+/node/27 6 90320 3 0
+/sites/default/ 2 0 0 0
+/admin/config/workflow/rules/reaction/manage/4 3 117595 0 0
+/admin/config/workflow/rules/reaction/manage/rules_og_new_content/autocomplete/subject/form-oCssglLERijvoXdtiWBdl1LB7o56zrARis0wwntDYQ0/node:og-group-ref:0: 1 4440 0 0
+/content/aaa 5 94353 0 0
+/group/node/1/unsubscribe 1 11824 0 0
+//content/%D7%A4%D7%95%D7%A8%D7%95%D7%9D-%D7%99%D7%93-%D7%95%D7%A9%D7%9D 1 11655 0 1
+/comment/11/edit 1 25842 0 0
+/admin/structure/types/manage/forumgroup/fields 1 32747 0 0
+/admin/config/workflow/rules/reaction/manage/og_og_new_content_notification_comments/delete/event/node_insert 1 9878 0 0
+/comment/reply/30 1 19074 0 0
+/user/reset/28/1431248932/NxE2hITZ6-DbyLPSOjZ8iXKYrIC16FwryQ2B072YPFY 1 2723 1 0
+/comment/reply/22/15 1 18897 0 0
+/admin/config/workflow/rules/reaction/manage/og_og_new_content_notification_comments/edit/6 1 111689 0 0
+/admin/config/regional/translate/edit/577 2 19222 0 0
+/comment/reply/25/11 1 24216 0 0
+/node/30 5 41607 2 3
+/user/reset/97/1431251439/hh0TL7eGlHgIi89kHGRyhqqTzmnQQITpspglZlknrUg 1 2717 0 0
+/media/42/format-form 1 9666 0 0
+/media/41/format-form 1 9654 0 0
+/content/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%D7%9D-%D7%93%D7%99%D7%90%D7%A7%D7%A8%D7%99%D7%98%D7%99%D7%9D-%C3%BC 8 103791 0 1
+/node/37/delete 1 8759 0 0
+/node/19/edit 4 74996 0 0
+/admin/config/system/site-information 2 60686 0 0
+/users/avishaydanino 1 11658 0 0
+/user/reset/90/1431248932/yACytwTH_EfQTGsg6ENM9Zpn3-6vy6v2oJM07iyuirY 1 2712 0 0
+/user/ 5 17648 2 0
+/js/admin_menu/cache/f9325884d1e71ca724b866c36239a2a8 1 4779 0 0
+/users/alexanderavram 2 23674 0 0
+/admin/config/workflow/rules/reaction/manage/rules_og_new_content/add-predicate/7/if 5 65350 0 0
+/admin/config/regional/translate/edit/4863 1 9542 0 0
+/content/%D7%93%D7%99%D7%95%D7%9F-%D7%A0%D7%99%D7%A1%D7%99%D7%95%D7%9F 2 35286 0 0
+/admin/structure/types 1 44326 0 0
+/js/admin_menu/cache/14b287b5355de8817d719f2f44c82fef 1 4777 0 0
+/js/admin_menu/cache/4975fe1e22cf8f3c466c1e7b05b3e045 1 4899 0 0
+/admin/config/people/accounts/fields/field_mail_new_comment/field-settings 1 11533 0 0
+/users/ramioster 1 12088 0 0
+/admin/config/workflow/rules/reaction/manage/og_og_new_content_notification_comments/autocomplete/entity/form-qFGq5tcyxfLcZB8sazmPXvMqjXTepefGoBnD1IMlw94/comment: 1 1429 0 0
+/authorize.php 3 7327 0 0
+/node/1/group 1 8045 0 0
+/admin/config/workflow/rules/reaction/manage/og_og_new_content_notification_comments/edit/1 3 147502 0 0
+/admin/config/workflow/rules/reaction/manage/og_og_new_content_notification_comments/edit/9 2 41894 0 0
+/js/admin_menu/cache/c1732d49d6ac3fc70eff35fdc09f39f3 6 28128 0 0
+/comment/reply/21 1 20605 0 0
+/comment/reply/29/28 2 37422 0 0
+/user/92/edit 10 194876 0 2
+/group/node/26/admin/people/add-user 2 22101 0 0
+/admin/config/group/permissions/node/forumgroup 4 194556 0 0
+END_SIDER

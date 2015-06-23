@@ -1,0 +1,9 @@
+[19-Apr-2015 12:16:12 Asia/Jerusalem] PHP Fatal error:  Class name must be a valid object or a string in /home/forum/public_html/includes/common.inc on line 7937
+[19-Apr-2015 12:16:22 Asia/Jerusalem] PHP Fatal error:  Class name must be a valid object or a string in /home/forum/public_html/includes/common.inc on line 7937
+[19-Apr-2015 12:16:44 Asia/Jerusalem] PHP Fatal error:  Class name must be a valid object or a string in /home/forum/public_html/includes/common.inc on line 7937
+[19-Apr-2015 12:16:50 Asia/Jerusalem] PHP Fatal error:  Class name must be a valid object or a string in /home/forum/public_html/includes/common.inc on line 7937
+[19-Apr-2015 12:16:57 Asia/Jerusalem] PHP Fatal error:  Class name must be a valid object or a string in /home/forum/public_html/includes/common.inc on line 7937
+[19-Apr-2015 15:31:49 Asia/Jerusalem] PHP Fatal error:  Call to undefined function file_info_file_types() in /home/forum/public_html/sites/all/modules/media/media.module on line 1085
+[19-Apr-2015 15:34:48 Asia/Jerusalem] PHP Fatal error:  Call to undefined function file_info_file_types() in /home/forum/public_html/sites/all/modules/media/media.module on line 1085
+[20-Apr-2015 11:19:44 Asia/Jerusalem] PHP Fatal error:  Call to undefined function file_info_file_types() in /home/forum/public_html/sites/all/modules/media/media.module on line 1085
+[20-Apr-2015 11:54:47 Asia/Jerusalem] PHP Fatal error:  Call to undefined function file_info_file_types() in /home/forum/public_html/sites/all/modules/media/media.module on line 1085

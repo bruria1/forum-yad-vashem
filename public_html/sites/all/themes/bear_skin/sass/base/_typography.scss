@@ -1,0 +1,71 @@
+//
+// Font faces, stacks and sizes.
+// override these variables in _custom.scss
+//
+
+// The font size set on the root html element.
+$bear-font-size: 62.5% !default;
+
+// This line-height determines the basic unit of vertical rhythm.
+$bear-line-height: 1.5 !default;
+
+// The font size of regular paragraph text
+$body-font-size: 16px !default;
+
+// Header font sizes
+$h1-font-size: 2    * $body-font-size !default;
+$h2-font-size: 1.5  * $body-font-size !default;
+$h3-font-size: 1.17 * $body-font-size !default;
+$h4-font-size: 1    * $body-font-size !default;
+$h5-font-size: 0.83 * $body-font-size !default;
+$h6-font-size: 0.75 * $body-font-size !default;
+
+// Base font families
+$header-font-family: "Helvetica Neue", Helvetica, sans-serif !default;
+$body-text-font-family: "Helvetica Neue", Helvetica, sans-serif !default;
+
+// Typography colors
+$base-font-color: $bear-dark !default;
+$link-color: $bear-blue !default;
+$link-color-hover: darken($link-color, 10%) !default;
+
+
+//
+// Reusable classes
+//
+%no-margins {
+  margin: 0;
+}
+
+%no-dangling {
+  &:first-child,
+  &:first-of-type {
+    margin-top: 0;
+  }
+  &:last-child,
+  &:last-of-type {
+    margin-bottom: 0;
+  }
+}
+
+//
+// Generic sizing classes
+//
+%tiny {
+  @include rem(font-size, 0.6 * $body-font-size);
+}
+%smaller {
+  @include rem(font-size, 0.7 * $body-font-size);
+}
+%small {
+  @include rem(font-size, 0.9 * $body-font-size);
+}
+%large {
+  @include rem(font-size, 1.1 * $body-font-size);
+}
+%larger {
+  @include rem(font-size, 1.2 * $body-font-size);
+}
+%largest {
+  @include rem(font-size, 1.3 * $body-font-size);
+}

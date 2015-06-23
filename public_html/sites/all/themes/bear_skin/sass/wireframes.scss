@@ -1,0 +1,14 @@
+@import "bear";
+
+.with-wireframes {
+  .site-header,
+  .site-main,
+  .main,
+  .site-navigation,
+  .region-sidebar-first,
+  .region-sidebar-second,
+  .site-footer,
+  .region-bottom {
+    outline: 1px solid #ccc;
+  }
+}

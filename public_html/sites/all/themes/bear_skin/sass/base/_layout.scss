@@ -1,0 +1,17 @@
+//
+// Layout Variables
+// Customize your theme by copying the variable name into _custom.scss and remove !default
+//
+$site-max-width: 1200px / 16px * 1em !default;
+$indent-amount: 30px / 16px * 1em !default;
+$vertical-gutter: 30px / 16px * 1em !default;
+
+// Breakpoints
+$breakpoint-small-width: max-width 25em !default;
+$breakpoint-med-small-width: max-width 30em !default;
+$breakpoint-medium-width: max-width 50em !default;
+$breakpoint-large-width: max-width 62.5em !default;
+$breakpoint-full-width: max-width $site-max-width;
+
+// Header layout
+$header-padding: 25px 0 !default;

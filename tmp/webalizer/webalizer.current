@@ -1,0 +1,2353 @@
+# Webalizer V2.23-05 Incremental Data - 06/23/2015 09:20:02
+2015 6 23 9 20 2
+5066 4122 277 339 216 131 76778901 2874 655 0
+12 16 165 1 23
+162 138 1614722 35 85 41
+63 45 416893 23 35 23
+96 70 553827 17 38 25
+45 17 172804 13 37 18
+173 145 2038576 21 103 26
+43 24 105223 26 16 15
+646 543 8705679 27 403 48
+959 821 18766022 36 565 62
+261 209 4072856 33 169 46
+213 178 4514011 28 138 35
+412 349 7475632 20 259 35
+54 50 250974 17 41 23
+39 24 192592 21 23 17
+236 197 4056218 22 125 23
+232 172 2351873 29 119 25
+132 103 920307 18 63 21
+81 52 588032 24 51 28
+63 60 295439 16 55 31
+47 35 261266 9 33 15
+36 19 100461 12 15 14
+233 193 4751406 26 73 21
+628 507 11139242 28 302 39
+212 171 3434846 12 126 24
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+17 15 64815 8
+11 8 84494 8
+33 26 238586 16
+24 15 456293 12
+262 185 2920560 118
+456 385 8352247 249
+559 466 9898325 274
+375 311 6194815 237
+342 277 5582164 186
+350 288 4434715 166
+284 241 5840106 161
+319 269 5291037 200
+346 281 4946589 234
+356 298 4538573 262
+386 303 7174926 189
+124 100 1041956 71
+200 166 1737430 112
+253 198 4370440 138
+88 56 785912 63
+103 81 703667 60
+53 47 739787 32
+82 68 1115528 48
+22 18 92409 14
+21 20 173527 16
+0
+0
+0
+4122
+0
+0
+0
+0
+0
+0
+0
+0
+262
+0
+0
+0
+0
+0
+0
+0
+169
+481
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+32
+0
+0
+0
+0
+0
+# -urls- 
+/sites/default/files/js/js_4IzVzW2BjyCzKvCodyGPmg-g8o80Inwgs10P3XnmjIU.js
+0 10 3543542599156708397 111700 0 0
+/sites/default/files/styles/media_thumbnail/public/Capture_0.PNG
+0 3 4121688890034501429 15948 0 0
+/sites/all/modules/jquery_update/replace/ui/themes/base/minified/images/ui-icons_454545_256x240.png
+0 1 7307491043618206513 4369 0 0
+/content/פיצר-דיווח-על-תקלות
+0 13 3258132423286731053 176214 0 1
+/sites/default/files/styles/media_thumbnail/public/Capture_1.PNG
+0 3 8026378142730645097 17382 0 0
+/comment/reply/47
+0 1 28015 19311 0 0
+/sites/default/files/css/css_ZzfcXr6F8TVaEC1tqwCH3mrWDo1PZL2gtEy5Y7-GBSk.css
+0 9 3329625984080019456 30015 0 0
+/sites/default/files/css/css_E0g9Cpg-4WY0CaJgG0BUz-rJpSHEbrllgqYWk7FdMTM.css
+0 25 40207552 31550 0 0
+/content/failed-status-500-internal-server-error
+0 12 40543072 161205 2 1
+/comment/reply/41/59
+0 1 0 18684 0 0
+/sites/all/modules/media/modules/media_wysiwyg/css/media_wysiwyg.css
+0 25 0 9450 0 0
+/batch
+0 6 0 23316 0 0
+/media/browser
+0 9 0 364692 1 0
+/sites/all/libraries/ckeditor/skins/kama/images/sprites.png
+0 24 0 170064 0 0
+/sites/default/files/styles/media_thumbnail/public/images3_1.jpg
+0 3 0 10170 0 0
+/admin/discuss
+0 11 0 716802 0 0
+/content/uxui-חווית-משתמש-0
+0 93 0 1086541 20 20
+/node/50
+0 9 0 64873 6 3
+/comment/reply/59
+0 1 40548688 20193 0 0
+/content/דיווח-תקלות
+0 193 0 6552783 21 19
+/file/ajax/upload/form-_UNKEBkmufYpxZV01kViZzMDfNPRkNcFwdedFEA5rtk
+0 1 0 3143 0 0
+/node/53
+0 6 0 75949 2 1
+/content/ערכי-שדות-באותיות-גדולות
+0 5 0 87463 0 0
+/admin/views/ajax/autocomplete/user/judith.levin@
+0 1 0 2 0 0
+/admin/groups
+0 1 0 10703 0 0
+/comment/reply/48
+0 1 0 20087 0 0
+/comment/reply/44
+0 2 0 45797 0 0
+/misc/message-24-error.png
+0 3 0 2199 0 0
+/sites/default/files/css/css_6sCZF2lGnQjc5Z7iaJKoFmAb1nHYWI90OyXJgZ_aTzk.css
+0 1 0 386 0 0
+/sites/default/files/css/css_yYwUXxtWWMluE7dUhflDQofdQGiKxTBHaZtNvbq9LW8.css
+0 16 0 8560 0 0
+/users/litalbeer
+0 1 0 13869 0 0
+/modules/system/system.base.css
+0 1 40559520 5428 0 0
+/misc/favicon.ico
+0 5 0 27150 0 0
+/sites/default/files/logo.png
+0 77 0 168784 0 0
+/sites/default/files/js/js_fvD9f5bRQMcFaDcFq5CjAqRiHXPRRKqExp12fvSJtHw.js
+0 2 0 15470 0 0
+/content/הפורום-מאד-מאד-איטי
+0 2 86187629194784817 26465 0 0
+/themes/bartik/css/colors.css
+0 1 40561904 1312 0 0
+/sites/default/files/styles/media_thumbnail/public/Untitled-3.jpg
+0 3 8241980338435665203 9678 0 0
+/sites/all/libraries/ckeditor/plugins/link/dialogs/link.js
+0 1 0 16900 0 0
+/sites/default/files/js/js_-PJd9cJAf13_VvfrHc7UoKmIbSleF9XbL6uknstHcZA.js
+0 2 7595429822716325443 5354 0 0
+/node/16/group
+0 1 85 8202 0 0
+/admin/views/ajax/autocomplete/user/judith.levin@y
+0 1 8317304086823174144 2 0 0
+/themes/seven/images/ui-icons-454545-256x240.png
+0 2 8317585561799884800 7404 0 0
+/users/doritnovak
+0 1 0 14110 0 0
+/comment/reply/38/70
+0 1 0 19263 1 0
+/content/הערות-ושאלות-על-מבנה-הפורום
+0 5 0 88505 0 0
+/node/61
+0 5 40543312 65906 1 1
+/comment/reply/36
+0 1 0 18714 0 0
+/misc/drupal.js
+0 1 40562144 14544 0 0
+/sites/default/files/css/css_oWys1WugAX8B9KBrVBOotjdvIrrbbvVibsrFcr446pM.css
+0 8 0 36840 0 0
+/modules/file/icons/x-office-document.png
+0 8 0 1568 0 0
+/user/reset/94/1434950269/E43iK4eSyy5gAKBp1zVz9eXSLXTn1YmYFaYAAvLvRGw
+0 1 0 2907 0 0
+/sites/all/libraries/ckeditor/contents.css
+0 25 0 13350 0 0
+/content/חסר-ה-disclaimer
+0 12 0 155449 1 0
+/sites/all/libraries/ckeditor/skins/kama/dialog.css
+0 1 0 18255 0 0
+/content/הסבת-שטוחים-למקובצים-בספיר-במאגר-השמות
+0 10 0 134617 0 2
+/user/27/edit
+0 2 0 33189 0 1
+/user/100/edit
+0 8 0 133794 0 0
+/content/פורום-כללי-אחד-או-כמה-פורומים-0
+0 14 0 197433 0 2
+/file/ajax/upload/form-WDyytB9dbhbmyMBoBi2_1dhp1Q1PFWaXsc-DwajcPfg
+0 1 0 3127 0 1
+/user/reset/105/1433848301/2ex9BoNcc9n7FxxQy9pILqm9f3zs8bfXzOVeV29gqH0
+0 1 0 2903 0 0
+/sites/all/libraries/ckeditor/plugins/styles/styles/default.js
+0 25 0 33975 0 0
+/node/55
+0 4 0 54110 7 2
+/sites/default/files/css/css_R-slMEj6rJBamqClUE8NGYB_qxwBfAW582ITDGL3RBQ.css
+0 8 0 19576 0 0
+/sites/default/files/js/js_Yov7NWs7Sqel24qb4G2djvAXWxF1Yvzi05EdNTo_Q9A.js
+0 15 0 426090 0 0
+/content/שם-משפחה-חסר
+0 8 0 115106 0 2
+/content/המייל-שמתקבל-מהפורום
+0 1 0 11828 0 0
+/node/54
+0 11 0 131930 8 1
+/content/גירסה-1009
+0 11 0 158062 0 3
+/node/41
+0 57 0 919578 19 9
+/sites/default/files/js/js_xwmOE7Rl2EOsIMg4YUz9OxIEK4QRSV2Hwrw3Dg3N0FY.js
+0 5 0 43905 0 0
+/user/109/edit
+0 5 0 84261 1 1
+/media/46/format-form
+0 1 40549376 9640 0 0
+/admin/people
+0 1 0 48310 0 0
+/user/reset/139/1433685459/QuqxYSsLMRu82rugGvK_WpoV3EmmJzAQhDZ66i2nefE
+0 1 0 2801 2 0
+/node/46
+0 25 0 341863 16 7
+/user/reset/84/1434278458/Z7vWmIQGhB34psB-nIDzP3zH-8wnWj6Is8EtzCseyLk
+0 1 0 2906 0 0
+/sites/default/files/styles/media_thumbnail/public/wysiwyg/1/111.jpg
+0 3 0 12192 0 0
+/comment/reply/29
+0 2 0 37742 0 0
+/sites/all/libraries/ckeditor/plugins/pastefromword/filter/default.js
+0 2 0 28204 0 0
+/node/58
+0 7 0 101521 5 1
+/sites/default/files/js/js_D2b7jOivNFK37OCLEKfSy0U98y1KUln_WeIEJJlgkto.js
+0 20 0 71440 0 0
+/content/search-history
+0 24 0 339209 0 3
+/sites/default/files/Capture_1.PNG
+0 7 0 256116 0 0
+/node/15
+0 1 0 11142 1 0
+/sites/default/files/js/js_9PoCIpaBdXzAfwjeoO2ibi_TtEs6jMROpVOwk-_WIBw.js
+0 2 0 24684 0 0
+/sites/default/files/js/js_EMQiiGXgQVS4lYn_U57wWpkb09snEwo88-BWzYU6lrA.js
+0 1 0 9965 0 0
+/user/login
+0 107 0 395924 68 55
+/content/הצגת-קלסטר
+0 24 0 377818 0 2
+/sites/default/files/js/js_SWEmySeDQRMXWtt-y6Aa1QHWIiSGZxYpjY3iJcW1zqc.js
+0 2 0 45884 0 0
+/content/גירסה-10013-ב-ldb
+0 12 0 141345 0 1
+/user/reset/106/1434028731/pPgtJTlrCmiUD47PF0bWkXF8tU5a4Z9eTDMH9xptaQ8
+0 1 0 2905 0 0
+/content/תיאור-מקורות
+0 7 40220016 106672 0 0
+/user/
+0 1 0 11717 0 0
+/sites/all/modules/jquery_update/replace/ui/themes/base/minified/images/ui-icons_888888_256x240.png
+0 1 0 4369 0 0
+/node/38
+0 21 0 356561 6 5
+/node/59
+0 6 0 79770 3 0
+/sites/default/files/css/css_de-P1wgSRsrjxWhJESJhw3GiEV36Wr_ePmxNlUjFC2k.css
+0 3 0 14649 0 0
+/content/פורום-יד-ושם
+0 57 0 776039 5 17
+/sites/default/files/js/js_QDGMsSpBR5_zP1cOHgQ4L1PEor8bZATlIvBbr-7bnrM.js
+0 2 0 25154 0 0
+/comment/reply/31/67
+0 1 0 18935 0 0
+/content/סימנים-דיאקריטים-ü
+0 5 0 64495 0 0
+/sites/default/files/testimonyImage.jpg
+0 27 3746994889972252672 11304468 0 0
+/themes/bartik/css/layout.css
+0 1 40561520 1634 0 0
+/comment/reply/31/43
+0 1 7311156825132200565 19084 0 0
+/node/17/edit
+0 1 7018142236641930547 18847 0 0
+/sites/default/files/css/css_tct-IfLtCZ0jDWSy3jFRDcLTxxwmHXiJQUrmR6uWeXc.css
+0 3 8317304086823174144 1869 0 0
+/content/סינון-לפי-קלסטרים
+0 20 8026098927956656128 285984 1 4
+/admin/views/ajax/autocomplete/user/judith.levin
+0 1 3543616503552045933 2 0 0
+/node/57
+0 4 93980240642353 52142 2 1
+/sites/default/files/js/js_Kno5p20E1pu-wLGTmpf9s8J3t6SwT_-LF0QI_8zyBMQ.js
+0 1 40171040 3201 0 0
+/sites/all/modules/jquery_update/replace/ui/themes/base/minified/images/ui-bg_glass_75_e6e6e6_1x400.png
+0 1 0 110 0 0
+/sites/default/files/styles/media_thumbnail/public/images.jpg
+0 3 0 16440 0 0
+/admin/users
+0 22 0 1932914 0 0
+/users/esthervoloshin
+0 1 0 14068 0 0
+/user/104/edit
+0 2 0 31948 0 0
+/misc/batch.js
+0 3 0 2817 0 0
+/content/פורום-כללי-אחד-או-כמה-פורומים
+0 6 0 86106 0 1
+/sites/all/libraries/ckeditor/ckeditor.js
+0 25 0 9481850 0 0
+/comment/reply/28
+0 1 0 19066 0 0
+/sites/all/themes/zen/js/html5-respond.js
+0 6 0 38706 0 0
+/node/44
+0 18 0 231237 5 1
+/node/45
+0 9 0 116785 3 1
+/user/password
+0 88 0 388509 20 23
+/sites/default/files/styles/media_thumbnail/public/Capture_2.PNG
+0 1 0 8021 0 0
+/sites/default/files/js/js_lME3z6hEvJIs27EqX6PUNm7pOy6XyQmngiBUHACFA5k.js
+0 3 0 56244 0 0
+/misc/draggable.png
+0 2 0 536 0 0
+/comment/reply/34
+0 2 0 42543 0 0
+/users/cynthiawroclawski
+0 1 0 13901 0 0
+/node/51
+0 7 0 84013 5 0
+/node/31
+0 22 0 388486 7 6
+/sites/default/files/css/css_gz-79-D3oRiKFLG79ecl4JlFLLkQg_LUiFhsNEou218.css
+0 22 0 80762 0 0
+/group/node/17/unsubscribe
+0 1 0 11274 0 0
+/modules/system/system.maintenance.css
+0 1 40561136 811 0 0
+/user/reset/102/1434022095/buq2Vr2OTNneIMhbwvQMAOIunoTbs8pghVK7XMFHmuQ
+0 1 0 2907 0 0
+/sites/default/files/styles/media_thumbnail/public/logo_1.jpg
+0 3 0 8493 0 0
+/misc/throbber-inactive.png
+0 7 0 2240 0 0
+/user/106/edit
+0 8 0 131578 0 0
+/sites/all/libraries/ckeditor/skins/kama/editor.css
+0 24 0 738552 0 0
+/user/84/edit
+0 2 0 32054 0 0
+/content/refine-your-search
+0 20 0 287127 1 3
+/sites/default/files/css/css_1IPY1A8ooBlfDk0A39LbR7mqwp8b5PoaQGUN-oYphbw.css
+0 94 0 130378 0 0
+/sites/default/files/styles/media_thumbnail/public/ps_pager.jpg
+0 3 0 7587 0 0
+/user/reset/106/1434028611/R4oXFW6XkIl0lgnT3-uJNNoeQvy44dzKJsLEHyCSqVk
+0 1 0 2905 0 0
+/comment/reply/60
+0 1 40477408 19558 0 0
+/comment/reply/32/37
+0 1 0 18635 1 1
+/comment/reply/31/35
+0 1 0 18473 0 0
+/user/reset/104/1432820536/g05cn-FnBMRyCIw-UagjSLncWq5PeMPoWoqNrlJguw8
+0 1 0 2802 0 0
+/modules/system/system.messages.css
+0 1 40561008 961 0 0
+/modules/system/system.admin.css
+0 1 40561392 5117 0 0
+/node/29
+0 8 0 123301 4 2
+/node/39
+0 4 0 50797 0 0
+/sites/default/files/styles/media_thumbnail/public/images3_0.jpg
+0 3 0 10170 0 0
+/user/108/edit
+0 6 0 100554 0 0
+/themes/seven/images/list-item-rtl.png
+0 2 0 450 0 0
+/comment/83/delete
+0 1 40477776 15335 0 0
+/sites/default/files/js/js_VSR7KQDF4a9vqfSxAfAoN5qe2dMH5e5RDdgQ0qG_m18.js
+0 21 0 224427 0 0
+/user/139/edit
+0 3 0 49536 0 1
+/node/47
+0 14 0 197013 10 2
+/comment/reply/32/40
+0 1 0 18703 0 0
+/content/גירסה-10010
+0 9 0 105476 1 2
+/file/progress/1843079153
+0 3 0 144 0 0
+/misc/grippie.png
+0 2 0 212 0 0
+/content/advanced-search-תקלה
+0 13 0 163290 1 2
+/sites/default/files/js/js_0gj6QcpfRH2jzTbCQqf7kEkm4MXY0UA_sRhwPc8jC1o.js
+0 89 0 3453022 0 0
+/content/גירסה-חדשה-ל-yvng
+0 7 0 112928 0 2
+/sites/default/files/js/js_EaUXJG1GrgbTXIZA5ULP9nOFFqQSqwzrZwbr6AL_m1I.js
+0 2 0 9518 0 0
+/user/136/edit
+0 4 0 63676 0 0
+/user/reset/102/1433685534/73kV1g940xSJRkpA9TGblF69HTOlQGO3DMNEYojwRTU
+0 1 0 2809 1 0
+/content/תפקוד-המפה
+0 17 0 289894 0 1
+/sites/default/files/js/js_ZS1vXcEWfe0CmNv-_hblldW8fqKXG89fO8PdM-_zNLw.js
+0 1 0 8221 0 0
+/content/הצעות-לפיצרים-ורעיונות-נוספים
+0 105 0 1758130 24 19
+/misc/jquery.once.js
+0 1 40562032 2974 0 0
+/content/ציור-מסלול-על-המפה
+0 14 0 179973 0 0
+/media/44/format-form
+0 1 0 9105 0 0
+/themes/seven/images/ui-icons-888888-256x240.png
+0 2 0 7404 0 0
+/sites/default/files/css/css_kczdk8GWOtnSm53bXp5ZvOT6IIvlhlXbwuG_LN8xs1E.css
+0 33 0 102300 0 0
+/user/reset/106/1433685363/nF0Lh4FVZ0IQDaMHtHzEOMMq4FJeF-CQda-IlRrs7IA
+0 2 0 5615 0 1
+/user/reset/100/1434385465/ySedlO2wSJYSqiR8CrhEL_1g1sZnwirCbBlNwlY-bD0
+0 1 0 2910 0 0
+/themes/seven/images/fc-rtl.png
+0 5 0 380 0 0
+/sites/default/files/image.jpg
+0 1 40549488 271888 0 0
+/content/הסכסוך-בין-סטיבן-מורס-לאליס-איילנד
+0 14 0 187541 0 0
+/user/reset/100/1433685492/i08ghEfJdtXkMUD-cj2m0W1XoEzTOW0Mf2YhOx3V660
+0 1 0 2807 1 0
+/comment/84/delete
+0 1 40477904 15335 0 0
+/themes/seven/images/add.png
+0 1 0 160 0 0
+/content/תיקונים-קטנים
+0 18 0 218207 0 1
+/sites/default/files/js/js_iwt9rZvqvG7ORVgNTWPaWKePAMGT7Msg3mlTbOVTUgE.js
+0 89 0 50463 0 0
+/sites/default/files/css/css_oaKBJBki4nmz0Pab96GoK5pa_6yYJVPUt52MYxUOc48.css
+0 94 0 921388 0 0
+/sites/default/files/styles/media_thumbnail/public/images3.jpg
+0 3 0 10170 0 0
+/themes/seven/images/arrow-asc.png
+0 1 0 88 0 0
+/node/60
+0 7 40543568 92335 2 0
+/sites/all/modules/jquery_update/replace/ui/themes/base/minified/images/ui-bg_glass_75_dadada_1x400.png
+0 1 0 111 0 0
+/content/בעיה-בסיפור
+0 5 0 78933 0 1
+/admin/views/ajax/autocomplete/user/judith.levin@yadvash
+0 1 0 2 0 0
+/modules/system/system.theme.css
+0 1 40476224 3711 0 0
+/modules/file/icons/image-x-generic.png
+0 1 0 385 0 0
+/admin/people/create
+0 13 0 225110 0 0
+/misc/throbber-active.gif
+0 1 0 1233 0 0
+/users/irisrosenberg
+0 1 0 13885 0 0
+/user/reset/109/1433685343/o7zOOv-YG4sJQaiZs_B3sKlzitvhKU441QN-RXiW6UY
+0 2 0 5810 1 0
+/user
+0 43 0 441892 0 0
+/node/35
+0 2 0 24808 0 0
+/comment/reply/38
+0 5 0 97523 1 0
+/misc/jquery.js
+0 1 40562256 78602 0 0
+/sites/default/files/styles/media_thumbnail/public/111.jpg
+0 3 0 12192 0 0
+/media/45/format-form
+0 1 0 9666 0 0
+/users/zvibernhardt
+0 1 0 13881 0 0
+/sites/default/files/js/js_SxIbn1MBxs-Yb8KSNAJAcO4AoIdLzjSy7FbsKK17lGs.js
+0 1 0 8903 0 0
+/content/קבלת-מיילים
+0 3 0 42924 0 0
+/comment/reply/39
+0 2 0 37870 1 0
+/import
+0 1 0 12927 0 0
+/comment/reply/45
+0 1 0 23722 0 0
+/misc/help.png
+0 9 0 2646 0 0
+/sites/default/files/css/css_prhodxyIoM_iqEbv9lR_TjQ1u-pS2fOdpjjGnwMZp4Q.css
+0 94 0 101708 0 0
+/sites/all/modules/media/modules/media_wysiwyg/wysiwyg_plugins/media_ckeditor/images/icon.gif
+0 24 0 3024 0 0
+/sites/default/files/js/js_t4rz6JC50YqE75df_7iw7Lp5RnF6FVGdGjujy0A1jYo.js
+0 3 0 21819 0 0
+/comment/reply/41/64
+0 1 0 18982 0 0
+/misc/message-24-ok.png
+0 5 0 5290 0 0
+/content/step-back-feature
+0 14 0 193270 0 1
+/users/sigalarieerez
+0 1 0 14066 0 0
+/themes/bartik/css/maintenance-page.css
+0 1 40561264 1313 0 0
+/node/34
+0 10 0 154680 6 2
+/comment/reply/41/54
+0 1 0 18411 0 0
+/sites/all/libraries/ckeditor/skins/kama/icons_rtl.png
+0 24 0 134400 0 0
+/comment/reply/35
+0 1 0 23855 0 0
+/comment/reply/56
+0 5 0 106659 0 0
+/comment/reply/41/53
+0 1 0 22685 0 0
+/node/43
+0 10 0 133140 9 4
+/sites/all/modules/admin/images/sprite.png
+0 33 0 205689 0 0
+/sites/default/files/styles/media_thumbnail/public/testimonyImage.jpg
+0 2 0 4952 0 0
+/sites/default/files/js/js_KCd8rbJYUruV1tRJnh4um34UYvyhlrSVCPR1jNko2h8.js
+0 4 0 4008 0 0
+/comment/reply/46
+0 4 0 80616 0 0
+/content/רישום-יוזרים-וקישור-ביניהם
+0 9 0 131236 1 2
+/sites/default/files/css/css_MnXiytJtb186Ydycnpwpw34cuUsHaKc80ey5LiQXhSY.css
+0 87 0 22098 0 0
+/sites/default/files/js/js_W2C_lE9qNOme_Fu2k9U12tQqINSuyrUqrUyB6cdJvhE.js
+0 2 0 19336 0 0
+/user/107/edit
+0 7 0 117248 0 0
+/node/49
+0 12 0 164830 2 0
+/node/42
+0 8 0 95643 1 1
+/sites/default/files/styles/media_thumbnail/public/new.jpg
+0 3 0 5280 0 0
+/user/101/edit
+0 7 0 121269 0 0
+/comment/reply/41/58
+0 1 0 18649 0 0
+/comment/reply/43
+0 1 0 22993 0 0
+/comment/reply/53
+0 1 0 19010 0 0
+/sites/all/libraries/ckeditor/lang/he.js
+0 25 0 561725 0 0
+/sites/all/modules/admin/images/bleeds.png
+0 9 0 5508 0 0
+/modules/system/system.menus.css
+0 1 40560880 2035 0 0
+/sites/all/modules/jquery_update/replace/ui/themes/base/minified/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+0 1 0 101 0 0
+/node/36
+0 4 0 47170 0 0
+/user/reset/136/1433685403/t8ipzkJvPvbJQZl-qFZZGva0iwCfNPRt0zOvXdsAevA
+0 2 0 5663 1 0
+/sites/default/files/Capture_2.PNG
+0 15 0 4666185 0 0
+/sites/default/files/js/js_loJJMZ-yLpCFnc5Htc8xgIMfdfNbw5E30CdocHWSiaM.js
+0 25 0 75675 0 0
+/user/reset/139/1433738925/r5C6fiuBk1WAqlzO6kd3z_F5Lj-75qxeP4bTE2qh1Go
+0 1 0 2803 0 0
+/sites/default/files/js/js_NwzEPD1f6KCaUJPLKFPJO9HXtUKVXkOqOjrz84jvqs8.js
+0 1 0 3436 0 0
+/users/danaporat
+0 2 0 28707 0 0
+/sites/default/files/js/js_ZrQbVJ22uQprwsY2u_VfEU3T6JGfBy4BHAru6J-DDPM.js
+0 32 0 199360 0 0
+/
+0 352 0 3937027 206 101
+/content/עדכון-גרסת-בסיס-נתונים-בנטויזין
+0 9 0 108965 0 0
+/node/17
+0 1 40559648 11042 1 0
+/themes/seven/images/buttons.png
+0 8 0 6288 0 0
+/comment/reply/47/60
+0 1 0 23329 0 0
+/sites/default/files/styles/media_thumbnail/public/Capture.PNG
+0 3 0 20202 0 0
+/themes/bartik/css/style.css
+0 1 40561648 32702 0 0
+/user/102/edit
+0 10 0 164198 1 0
+/user/reset/136/1433754066/D8BDl4cxDtDr99FPz-fIT-F2qFQukSfDai0xEp3vWLE
+0 2 0 5707 1 0
+/sites/default/files/js/js_qQk4Yx5gnvB3_kOq2-slkoS6S_6jnAuAWzofm7jw2ho.js
+0 2 0 15924 0 0
+/comment/74/edit
+0 3 0 74364 1 0
+/user/105/edit
+0 2 40190288 32200 0 0
+/sites/default/files/js/js_dNZjvIOWWxw2WiKBhIKv1fWzeyG-_zv2xh2tlmH3loI.js
+0 3 0 28545 0 0
+/sites/default/files/js/js_CCIXdRUNAslaXOFOmpD1GEv1QoYERzHcdh7V_g3fKpc.js
+0 16 0 31376 0 0
+/node/17/group
+0 1 0 8241 0 0
+/content/משהו-נדפק-בפורום
+0 43 0 414925 19 11
+/content/ייצוא-נתונים-בפורמט-gedcom
+0 23 0 440164 1 5
+/node/52
+0 10 0 127084 10 4
+/comment/reply/44/55
+0 1 0 18629 0 0
+/node/48
+0 4 0 50560 1 2
+/comment/reply/56/79
+0 1 0 19633 0 0
+/misc/menu-collapsed-rtl.png
+0 6 0 642 0 0
+/sites/default/files/css/css_KhilZjBj1b-DDURNPo5-ix6nwj7Q_EHbf6pbO6p5p5U.css
+0 2 0 6306 0 0
+/content/גודל-מסך-ה-viewer
+0 34 0 258618 9 12
+/comment/reply/34/38
+0 1 0 18654 0 0
+/sites/default/files/css/css_DDC17utRgQLuLnCwDPzoERCQ3yePDo_8fJ9F7DC1PVA.css
+0 1 0 320 0 0
+/sites/default/files/js/js_2NmwUTc-c65dQI8K6IbKO4X5SBQSb6xMzx2rmHdKAJA.js
+0 3 0 86184 0 0
+/group/node/17/subscribe/og_user_node
+0 1 0 11357 0 0
+/sites/default/files/styles/media_thumbnail/public/DSCF0042.JPG
+0 2 0 7726 0 0
+/user/reset/101/1433685512/3lwjxpYh63NWIzfP9Vx4lKh-d71cgAaJwdvV9tkoayw
+0 1 0 2798 1 0
+/node/28
+0 4 0 67730 2 0
+/sites/default/files/js/js_DypMsDtgAt2ZUyUK8brE8HqnvmAqnl_0ssKWF7CX09Y.js
+0 21 0 560700 0 0
+/sites/default/files/js/js__Wx2_rge5d1nD4shGeIvRFB5_TuMpHHlg0aYldwNCao.js
+0 2 0 25176 0 0
+/comment/reply/52
+0 1 0 23537 0 0
+/sites/default/files/js/js_tsYZw8wapzJI4BkwUT0i2HWdGLorHeG9qbytuSUdWxM.js
+0 2 0 28726 0 0
+/misc/progress.gif
+0 3 0 17616 0 0
+/themes/bartik/css/print.css
+0 1 40561776 656 0 0
+/user/reset/107/1434956679/rY94E1yiZdEHwG29NaXAc6ew3GP_1SO7RcZ4P01RXFE
+0 1 0 2905 0 0
+/sites/default/files/js/js_pHAGgKryghHglTN2P9UwvqB0j_7W6JmxdKKuB5-YTgk.js
+0 5 0 61800 0 0
+/sites/default/files/styles/media_thumbnail/public/images4_0.jpg
+0 3 0 4569 0 0
+/user/94/edit
+0 2 0 32142 0 0
+/sites/default/files/js/js_b9qr1culaBwHApQwsOkT0hx4JSHu83aidZzOLGX4p90.js
+0 3 0 122115 0 0
+/comment/reply/41
+0 4 0 88462 0 0
+/content/אימג-לא-נפתח
+0 89 0 1438819 3 7
+/sites/default/files/js/js_l3Lb58kplTqubrhinMn5kfzvXy1SOD8G40G41-dLGDg.js
+0 83 0 128235 0 0
+/robots.txt
+0 71 0 105009 0 0
+/node/55/edit
+0 1 0 21033 0 0
+/user/reset/102/1434973928/cdZjaT1n9ikWNI4NHyrTU1AroPRhafzNg8U4PVmlRWM
+0 1 0 2907 0 0
+/node/37
+0 5 0 64750 1 0
+/users/yaelgherman
+0 1 0 14056 0 0
+/content/כללי
+0 115 0 3063462 25 24
+/node/32
+0 5 0 78478 4 2
+/node/42/edit
+0 6 0 124228 0 0
+/user/137/edit
+0 3 0 47335 0 0
+/sites/default/files/css/css_amwB8eK-TZj-VoxGvUzMAQLkFkWhs7j1qNviBG9YjL0.css
+0 4 0 12944 0 0
+/sites/default/files/css/css_eN1A3xB3Jz0hLbNEbJdwBk-pYEFX2_5FR9r_a5o4ufU.css
+0 5 0 25830 0 0
+/sites/all/modules/admin/images/black.png
+0 33 0 30822 0 0
+/comment/reply/31
+0 3 0 57156 0 0
+/comment/reply/58
+0 1 40477280 20129 0 0
+/content/בעיה-במספר-דף
+0 28 0 113741 22 19
+/node/40
+0 1 0 11236 2 2
+/sites/all/modules/jquery_update/replace/ui/themes/base/minified/images/ui-bg_flat_0_aaaaaa_40x100.png
+0 1 0 180 0 0
+/user/reset/108/1433685324/Nh9gPb9eQA-dBcivUfWHigiIQAvWMI9xNBxBkjc7nW8
+0 1 0 2908 0 0
+/comment/reply/37
+0 1 0 19059 0 0
+/comment/reply/46/72
+0 1 0 18697 0 0
+/sites/all/modules/jquery_update/replace/ui/themes/base/minified/images/ui-bg_flat_75_ffffff_40x100.png
+0 1 0 178 0 0
+/node/47/edit
+0 3 0 58621 0 0
+/user/reset/108/1434954732/o8j5IISwKm0uGOoEHTWKMgdwOOoXf573bdxfx3qcZH8
+0 1 0 2900 0 0
+/sites/default/files/css/css_DvuXt4wpsztzbpv-U5xeljeqDOaYT3M0DggV0EAbCJw.css
+0 2 0 6430 0 0
+/sites/default/files/css/css_cXFaPjZiXMHFMlHpzp0uAnQrDVBg4AI-QBrYv5_LiWk.css
+0 10 0 50390 0 0
+/node/16/edit
+0 1 0 18504 0 0
+/user/reset/137/1433685427/5pTsoDs2UhLZTXeL9c7DjC72irPYDGdUrAcubTrL9mA
+0 1 0 2808 0 0
+/sites/default/files/styles/media_thumbnail/public/111_0.jpg
+0 3 0 12192 0 0
+/sites/default/files/js/js_-bOYgKx6kgr5lpcopMy0OroNbjcgDI_D24X3-UGoMl4.js
+0 2 0 12564 0 0
+/admin/views/ajax/autocomplete/user/judith.levin@yadvashem.org.il
+0 1 0 2 0 0
+/user/140/edit
+0 2 0 35866 0 0
+/node/add/discuss
+0 27 0 505928 3 0
+/comment/reply/22
+0 1 0 19229 0 0
+/content/גירסה-10012-ב-ldb
+0 15 0 204207 0 0
+/node/56
+0 31 0 557514 13 3
+/user/reset/107/1434006545/am4vhI5r8FANpN3lMKl14jmfvMk_jrRwgbpgNUQADRc
+0 1 0 2900 0 0
+/content/כנס-גניולוגיה-5-10-יולי-2015
+0 15 0 198866 0 2
+/sites/all/themes/forum/images/tikke.png
+0 76 0 104120 0 0
+/sites/default/files/js/js_h5bhGS5XDySYLGlC4QllOy85xaIkFmQU_Yn-rkYyhn0.js
+0 7 0 45934 0 0
+# End Of Table - urls
+# -sites- (monthly)
+dsl-187-139-77-127-dyn.prod-infinitum.com.mx
+0 1 0 10028 1 1434217477
+-
+46.19.86.167
+0 14 12 104354 2 1433771273
+/node/49
+42.156.136.17
+0 1 1 1479 0 0
+-
+46.19.85.169
+0 27 19 988365 1 1434958721
+/content/ייצוא-נתונים-בפורמט-gedcom
+176.100.158.109
+0 1 0 318 0 0
+-
+46.19.86.87
+0 1 1 15350 1 1433864386
+/node/52
+138.136.11.177.raimax.com.br
+0 2 0 636 0 0
+-
+bzq-84-109-180-161.cablep.bezeqint.net
+0 59 36 432818 8 1435042864
+/node/56
+178-137-164-249-broadband.kyivstar.net
+0 1 1 12780 1 1433133242
+/
+122.13.pppoe.mari-el.ru
+0 2 1 13907 1 1435036753
+/
+223.81.197.233
+0 1 1 12780 1 1433125876
+/
+176.15.34.208
+0 1 1 13202 1 1433763672
+/
+msnbot-157-55-39-36.search.msn.com
+0 38 34 104599 24 1433694405
+/user/login
+81-27-61-67.domolink.elcom.ru
+0 18 12 156912 6 1433341319
+/content/פורום-יד-ושם
+173-164-136-233-sfba.hfc.comcastbusiness.net
+0 1 1 3867 1 1433134928
+/
+42.156.139.20
+0 1 0 325 0 0
+-
+195-154-146-225.rev.poneytelecom.eu
+0 1 1 3956 1 1434418314
+/
+msnbot-157-55-39-168.search.msn.com
+0 5 5 15760 3 1434309997
+/user/login
+b110041.yse.yahoo.net
+0 4 3 7143 1 1433645697
+/
+46.19.85.81
+0 1 0 0 1 1435042746
+/node/56
+msnbot-207-46-13-6.search.msn.com
+0 7 6 15978 3 1434586146
+/content/גודל-מסך-ה-viewer
+85-250-228-79.bb.netvision.net.il
+0 1 1 12780 1 1433485414
+/
+msnbot-207-46-13-31.search.msn.com
+0 4 4 13941 3 1434118859
+/content/דיווח-תקלות
+static-58-51-68-212.sadecehosting.net
+0 2 0 823 0 0
+-
+dsystemip2.vhoster.org
+0 8 8 106285 2 1434515631
+/
+jobqueue-listener.jobqueue.netcraft.com-u47e37ded48a14eed83ce67541d05b358u-digitalocean
+0 1 1 13589 1 1433807225
+/
+msnbot-157-55-39-143.search.msn.com
+0 20 20 61050 15 1434201690
+/user/password
+5x167x182x138.dynamic.penza.ertelecom.ru
+0 1 1 13589 1 1434531961
+/
+nso-hudson.netrex.com
+0 2 0 13882 1 1434513749
+/
+hosted-by.slaskdatacenter.pl
+0 1 1 13589 1 1434539378
+/
+crawl-192-99-107-199.meanpathbot.com
+0 2 2 5432 1 1433881039
+/
+crawl29.exabot.com
+0 9 6 14699 2 1433976595
+/
+dsystemip3.vhoster.org
+0 16 16 211232 1 1433772876
+/
+hotnet-213-57-100-132.hotnet.net.il
+0 31 26 304269 1 1433492138
+/content/גירסה-חדשה-ל-yvng
+194.153.113.35
+0 3 0 27471 2 1434556344
+/
+46-116-167-233.bb.netvision.net.il
+0 89 85 2264157 1 1433746984
+/content/אימג-לא-נפתח
+120.198.243.5
+0 1 0 682 0 0
+-
+46.19.86.51
+0 1 1 16214 1 1434039563
+/node/43
+msnbot-157-55-39-136.search.msn.com
+0 2 2 4968 1 1434665184
+/content/גודל-מסך-ה-viewer
+ec2-52-74-218-190.ap-southeast-1.compute.amazonaws.com
+0 2 1 13093 1 1433578498
+/
+google-proxy-66-249-81-231.google.com
+0 5 2 8706 2 1434290469
+/
+80.191.174.195
+0 1 0 318 0 0
+-
+msnbot-157-55-39-9.search.msn.com
+0 25 25 83839 23 1433959781
+/content/בעיה-במספר-דף
+46-116-175-186.bb.netvision.net.il
+0 1 1 16952 1 1433281102
+/
+46.19.86.209
+0 11 9 60365 1 1435039070
+/node/60
+boson092.ahrefs.com
+0 1 0 293 0 0
+-
+37.26.147.193
+0 10 9 60018 1 1433749033
+/node/41
+crawl-66-249-65-102.googlebot.com
+0 4 2 11865 0 0
+-
+cache.idc.js.chinamobile.com
+0 4 0 1990 0 0
+-
+msnbot-207-46-13-139.search.msn.com
+0 4 4 12627 2 1434059169
+/content/דיווח-תקלות
+host180.dynamic11.l2tp.ttkdv.ru
+0 2 0 13046 1 1434450347
+-
+117.78.13.58
+0 2 2 5432 1 1434319541
+/
+mail.izsearch.com
+0 1 0 310 0 0
+-
+117.175.98.29
+0 1 0 682 0 0
+-
+120.198.243.105
+0 2 0 999 0 0
+-
+dynamicip-94-181-162-30.pppoe.penza.ertelecom.ru
+0 2 1 13902 1 1434584187
+/
+202-59-70-107.nexlinx.net.pk
+0 1 0 682 0 0
+-
+msnbot-157-55-39-171.search.msn.com
+0 14 14 44174 12 1434838373
+/user/login
+msnbot-157-55-39-234.search.msn.com
+0 13 13 40334 7 1434222027
+/user/login
+106.79.pppoe.mari-el.ru
+0 2 1 13907 1 1434068676
+/
+user-91-90-18-78.skif.com.ua
+0 2 1 13902 1 1434334964
+/
+186-92-22-116.genericrev.cantv.net
+0 1 0 317 0 0
+-
+boson071.ahrefs.com
+0 8 0 5156 1 1433535513
+-
+85-250-115-122.bb.netvision.net.il
+0 12 12 86352 1 1433505351
+/content/חסר-ה-disclaimer
+223.81.197.195
+0 2 1 13098 1 1433244804
+/
+46.19.85.202
+0 1 1 12048 1 1433907488
+/node/52
+203.133.170.137
+0 1 1 3956 1 1434381284
+/
+120.198.243.22
+0 1 0 317 0 0
+-
+msnbot-207-46-13-142.search.msn.com
+0 7 7 22313 4 1433192151
+/content/בעיה-במספר-דף
+crawl-66-249-65-108.googlebot.com
+0 26 19 55843 7 1435030218
+/content/כללי
+46.19.86.203
+0 1 0 3073 1 1434393407
+/node/46
+46.19.86.11
+0 15 9 107868 1 1433151653
+/content/גירסה-1009
+85-250-251-86.bb.netvision.net.il
+0 38 35 701234 5 1433311961
+/node/32
+dynamic-213-57-115-95.hotnet.net.il
+0 8 6 401941 1 1433800819
+/node/47
+46-117-113-4.bb.netvision.net.il
+0 12 7 45896 1 1434386525
+/content/סינון-לפי-קלסטרים
+spider-95-167-189-83.sputnik.ru
+0 2 1 1824 0 0
+-
+116.246.6.51
+0 1 0 313 0 0
+-
+75.126.6.250-static.reverse.softlayer.com
+0 1 0 294 0 0
+-
+google-proxy-66-249-93-222.google.com
+0 1 1 3953 1 1435039590
+/
+crawl03.lp.007ac9.net
+0 2 2 14259 1 1433476678
+/
+crawl-192-99-107-87.meanpathbot.com
+0 2 2 5432 1 1434466893
+/
+46.19.85.183
+0 3 1 15819 1 1434978323
+/content/רישום-יוזרים-וקישור-ביניהם
+46.19.86.168
+0 4 4 73972 1 1433689128
+/content/הצעות-לפיצרים-ורעיונות-נוספים
+27.17.126.199
+0 2 1 13914 1 1433793072
+/
+host-189-194.nat-pool.telecet.ru
+0 1 0 2913 1 1433140280
+-
+93-173-228-128.bb.netvision.net.il
+0 16 13 106760 2 1434399509
+/node/55
+msnbot-157-55-39-123.search.msn.com
+0 4 4 14652 3 1434396579
+/
+46.19.85.135
+0 7 4 20315 2 1433797372
+/content/גירסה-10012-ב-ldb
+msnbot-157-55-39-199.search.msn.com
+0 5 5 16005 5 1433862150
+/content/הצעות-לפיצרים-ורעיונות-נוספים
+46.19.86.177
+0 17 15 520586 1 1434897819
+/content/אימג-לא-נפתח
+bzq-166-168-31-142.red.bezeqint.net
+0 5 4 53632 2 1433835703
+/node/51
+210.101.131.232
+0 2 0 626 0 0
+-
+dsystemip1.vhoster.org
+0 6 6 81534 2 1434168971
+/
+google-proxy-66-249-81-225.google.com
+0 8 4 16821 4 1434954835
+/
+chulak.enn.lu
+0 1 0 317 0 0
+-
+msnbot-157-55-39-16.search.msn.com
+0 1 1 3479 1 1434309940
+/content/משהו-נדפק-בפורום
+msnbot-157-55-39-92.search.msn.com
+0 8 8 25897 4 1434989414
+/user/login
+crawl-66-249-65-114.googlebot.com
+0 19 12 79381 3 1434814350
+/content/פורום-יד-ושם
+42.156.136.45
+0 1 1 1387 0 0
+-
+46.19.86.213
+0 1 1 15111 1 1434361527
+/node/55
+46.19.86.81
+0 33 28 702480 3 1433764892
+/content/סינון-לפי-קלסטרים
+204-195-139-006-dhcp.mia.fl.atlanticbb.net
+0 5 4 64384 2 1434531159
+/
+211.138.121.38
+0 1 0 510 0 0
+-
+l49-154-49.cn.ru
+0 2 1 13902 1 1434924549
+/
+crawl-66-249-69-78.googlebot.com
+0 2 1 1809 0 0
+-
+5x165x188x159.dynamic.penza.ertelecom.ru
+0 1 1 13589 1 1434853555
+/
+109-126-196-228.domolink.elcom.ru
+0 6 4 52304 2 1433523210
+/content/פורום-יד-ושם
+222.122.190.114
+0 2 2 15068 1 1434940187
+/
+202.51.102.34
+0 1 0 313 0 0
+-
+202.106.52.126
+0 1 0 510 0 0
+-
+msnbot-157-55-39-251.search.msn.com
+0 3 3 8477 2 1434129217
+/content/בעיה-במספר-דף
+46.175.254.19
+0 2 1 13906 1 1434793629
+/
+149.78.237.48
+0 24 20 317079 3 1435001865
+/node/56
+h-252-176.scoutjet.com
+0 2 1 1797 0 0
+-
+5x164x205x96.dynamic.nn.ertelecom.ru
+0 1 1 12780 1 1433276902
+/
+msnbot-207-46-13-84.search.msn.com
+0 18 17 52698 13 1434977995
+/user/password
+212.143.122.6
+0 58 48 1423664 5 1434969569
+/content/אימג-לא-נפתח
+85-250-245-143.bb.netvision.net.il
+0 63 59 1160218 12 1435042312
+/node/56
+msnbot-157-55-39-137.search.msn.com
+0 8 8 24958 6 1434737448
+/user/login
+104.255.68.207
+0 22 22 297984 10 1434462737
+/
+91.243.163.202
+0 1 0 313 0 0
+-
+chirchik.netangels.ru
+0 1 0 318 0 0
+-
+203.133.168.98
+0 1 1 3867 1 1433132843
+/
+212.143.122.4
+0 536 444 10801580 29 1434986575
+/node/58
+46.19.85.130
+0 20 16 137483 2 1435037315
+/content/failed-status-500-internal-server-error
+95-24-203-167.broadband.corbina.ru
+0 2 2 25560 2 1433152421
+/
+gamma.vl.net.ua
+0 6 0 1908 0 0
+-
+46.161.41.199
+0 12 12 136160 10 1435003640
+/node/17
+36.99.30.144
+0 1 1 1479 0 0
+-
+ec2-54-146-171-44.compute-1.amazonaws.com
+0 2 1 1797 0 0
+-
+46.19.86.48
+0 11 11 87991 2 1434017222
+/node/31
+149.88.21.165
+0 10 9 60091 1 1433793047
+/node/45
+203.133.168.86
+0 1 1 3954 1 1433830064
+/
+46.19.86.94
+0 4 0 41720 2 1435039860
+/content/failed-status-500-internal-server-error
+95-26-212-146.broadband.corbina.ru
+0 1 1 12780 1 1433554445
+/
+crawl-192-99-107-107.meanpathbot.com
+0 2 2 5389 1 1433782854
+/
+42.156.139.5
+0 2 2 1336 0 0
+-
+212.143.122.19
+0 19 16 173910 1 1434962393
+/content/הצעות-לפיצרים-ורעיונות-נוספים
+203.133.171.106
+0 1 1 3953 1 1434442106
+/
+msnbot-157-55-39-151.search.msn.com
+0 8 8 20752 5 1433340729
+/user/login
+208.115.113.82
+0 11 5 37645 3 1434837471
+-
+193.224.45.73
+0 2 2 24564 1 1434032885
+/node/43
+46.19.86.145
+0 32 31 503965 3 1433835729
+/content/כללי
+msnbot-157-55-39-250.search.msn.com
+0 2 2 7201 2 1434229858
+/content/דיווח-תקלות
+46-116-141-208.bb.netvision.net.il
+0 94 74 2024001 2 1433795837
+/content/אימג-לא-נפתח
+112.111.190.167
+0 1 0 3012 1 1434351396
+-
+46.19.86.127
+0 17 17 124451 2 1433339466
+/node/32
+msnbot-157-55-39-167.search.msn.com
+0 2 2 6560 1 1434310256
+/content/גודל-מסך-ה-viewer
+c-89-233-234-186.cust.bredband2.com
+0 5 2 3886 0 0
+-
+109-126-237-14.domolink.elcom.ru
+0 6 4 52304 2 1433679868
+/content/פורום-יד-ושם
+203.133.170.165
+0 1 1 3951 1 1433941709
+/
+msnbot-207-46-13-21.search.msn.com
+0 2 1 4272 1 1434532339
+/
+host.osagatech.com
+0 3 0 9793 1 1433244488
+/
+46-120-166-106.static.012.net.il
+0 17 15 519330 1 1433958200
+/content/אימג-לא-נפתח
+ok2web.ru
+0 2 1 13084 1 1433124575
+-
+2e6b6683.dsl.pool.telekom.hu
+0 1 1 17618 1 1434001441
+/node/31
+122.224.169.90
+0 1 0 510 0 0
+-
+94.103.232.243
+0 2 1 4273 1 1434041617
+/
+112.74.75.173
+0 7 0 20730 0 0
+-
+46.19.86.47
+0 1 1 16012 1 1433747556
+/node/44
+221.122.20.142
+0 1 0 682 0 0
+-
+101.71.27.120
+0 1 0 510 0 0
+-
+bzq-109-67-53-20.red.bezeqint.net
+0 16 13 69918 3 1433772782
+/user/password
+46.229.170.193
+0 1 1 13589 1 1433982668
+/
+dynamic-213-57-45-57.hotnet.net.il
+0 14 11 388083 2 1433950287
+-
+nvhserver.com
+0 9 8 106603 8 1434581309
+/
+212.143.122.2
+0 2148 1822 37459055 74 1435041681
+/content/הצעות-לפיצרים-ורעיונות-נוספים
+107.150.42.34
+0 1 1 12780 1 1433545775
+/
+46.19.86.66
+0 1 1 17216 1 1433171014
+/node/34
+46.19.86.131
+0 1 1 22004 1 1434293271
+/node/38
+188.subnet110-138-26.speedy.telkom.net.id
+0 3 1 14225 1 1434898935
+/
+boson126.ahrefs.com
+0 1 0 293 0 0
+-
+222.212.205.121.broad.pt.fj.dynamic.163data.com.cn
+0 1 0 322 0 0
+-
+msnbot-157-55-39-152.search.msn.com
+0 8 8 19150 4 1433339374
+/user/login
+msnbot-157-55-39-218.search.msn.com
+0 9 7 24975 7 1433875522
+/content/בעיה-במספר-דף
+123.150.107.2
+0 1 0 682 0 0
+-
+221.143.46.18
+0 1 0 318 0 0
+-
+62-210-215-115.poneytelecom.eu
+0 1 0 320 0 0
+-
+msnbot-157-55-39-17.search.msn.com
+0 1 1 3007 1 1434309976
+/user/password
+203.133.170.17
+0 1 1 3911 1 1433780018
+/
+msnbot-157-55-39-99.search.msn.com
+0 16 16 50526 12 1434045761
+/user/login
+69-50-181-85.westerncable.ca
+0 8 8 94806 2 1434621814
+/user/password
+dedi-dk-73254.op-net.com
+0 2 1 13902 1 1434397346
+/
+123202096207.ctinets.com
+0 1 0 313 0 0
+-
+mxl064v248.mxlogic.net
+0 11 10 60487 1 1433276404
+/content/שם-משפחה-חסר
+crawl-66-249-69-86.googlebot.com
+0 1 0 2915 1 1433514206
+-
+bzq-79-178-1-139.red.bezeqint.net
+0 5 3 42986 1 1434992083
+/
+46.19.85.77
+0 2 0 12601 1 1433746740
+/content/אימג-לא-נפתח
+46.19.85.98
+0 1 0 3083 1 1433916575
+/node/52
+dynamicip-94-181-145-4.pppoe.penza.ertelecom.ru
+0 1 1 13589 1 1434757953
+/
+google-proxy-66-249-81-228.google.com
+0 7 5 20099 5 1434348363
+/
+hk2-lr700552g.super-goo.com
+0 2 2 2958 0 0
+-
+msnbot-207-46-13-134.search.msn.com
+0 12 12 37084 11 1434061622
+/user/login
+85-250-211-165.bb.netvision.net.il
+0 67 64 1851105 3 1434056969
+/content/הצעות-לפיצרים-ורעיונות-נוספים
+dsystemip5.vhoster.org
+0 5 5 63900 1 1433660695
+/
+ns4001076.ip-198-245-49.net
+0 2 0 618 0 0
+-
+msnbot-207-46-13-56.search.msn.com
+0 15 14 46050 11 1434977855
+/content/דיווח-תקלות
+bzq-79-178-153-149.red.bezeqint.net
+0 26 20 278821 5 1434389908
+/node/46
+ns1.ajlb.co.id
+0 1 0 318 0 0
+-
+46-211-34-136-kie.broadband.kyivstar.net
+0 2 2 25560 2 1433192753
+/
+dynamicip-94-181-173-189.pppoe.penza.ertelecom.ru
+0 1 1 13589 1 1434119004
+/
+dynamic-213-57-145-172.hotnet.net.il
+0 18 14 221339 3 1435039908
+/content/הצעות-לפיצרים-ורעיונות-נוספים
+46.19.85.216
+0 9 7 117163 1 1434961061
+/node/56
+46.19.86.26
+0 23 23 216240 2 1433686923
+/content/search-history
+31.193.196.98
+0 39 7 103391 6 1434607567
+/
+epl130.neoplus.adsl.tpnet.pl
+0 1 1 13589 1 1434104177
+/
+50.97.131.226-static.reverse.softlayer.com
+0 1 0 294 0 0
+-
+spider-95-167-189-75.sputnik.ru
+0 6 1 3364 0 0
+-
+b110027.yse.yahoo.net
+0 5 2 6611 1 1434432468
+-
+200.red-83-60-32.dynamicip.rima-tde.net
+0 3 0 946 0 0
+-
+gj-16-036.bta.net.cn
+0 1 0 313 0 0
+-
+bzq-79-176-37-78.red.bezeqint.net
+0 13 9 76844 1 1433945531
+/content/ערכי-שדות-באותיות-גדולות
+184.173.118.169-static.reverse.softlayer.com
+0 1 0 294 0 0
+-
+spider-95-167-189-86.sputnik.ru
+0 1 0 377 0 0
+-
+crawl-192-99-107-139.meanpathbot.com
+0 2 2 5351 1 1433183236
+/
+46.19.85.127
+0 9 7 56795 1 1434273062
+/node/53
+46-116-160-209.bb.netvision.net.il
+0 16 15 156241 1 1435051168
+/node/58
+crawl-66-249-69-94.googlebot.com
+0 1 1 1479 0 0
+-
+193.238.111.14
+0 1 0 318 0 0
+-
+111.1.36.6
+0 1 0 510 0 0
+-
+162.244.13.178
+0 27 6 156882 9 1433443810
+/
+5x166x244x151.dynamic.penza.ertelecom.ru
+0 2 2 27178 2 1434620828
+/
+crawl-66-249-65-105.googlebot.com
+0 3 2 5671 1 1433663143
+/
+46.19.86.49
+0 16 15 385397 2 1433832546
+/content/דיווח-תקלות
+46.19.85.187
+0 3 3 18123 1 1433823656
+/content/uxui-חווית-משתמש-0
+217.11.67.178
+0 4 0 1272 0 0
+-
+46-116-115-24.bb.netvision.net.il
+0 13 13 591563 1 1434955443
+/node/56
+149.78.43.111
+0 15 14 104299 2 1433163349
+/
+122.96.59.106
+0 1 0 313 0 0
+-
+212.143.122.5
+0 131 79 2084825 17 1434976373
+/content/failed-status-500-internal-server-error
+37x113x40x129.dynamic.penza.ertelecom.ru
+0 8 8 94806 2 1434077774
+/user/password
+ec2-52-28-116-201.eu-central-1.compute.amazonaws.com
+0 1 0 294 0 0
+-
+dsystemip4.vhoster.org
+0 25 25 330826 7 1434879115
+/
+46.19.86.111
+0 5 5 98690 1 1433945447
+/node/46
+static.213-239-211-141.clients.your-server.de
+0 19 18 194867 1 1434741575
+/user/login
+msnbot-207-46-13-29.search.msn.com
+0 14 13 38875 10 1433682125
+/user/login
+bzq-79-181-103-15.red.bezeqint.net
+0 12 9 60657 1 1433816344
+/node/47
+46.19.86.165
+0 10 10 110796 1 1433495249
+/content/חסר-ה-disclaimer
+183.252.221.119
+0 2 0 628 0 0
+-
+46.229.167.149
+0 4 4 52738 2 1434228362
+/content/פורום-יד-ושם
+183.216.255.18
+0 3 0 1530 0 0
+-
+46.19.86.139
+0 7 5 82771 1 1433493338
+/content/step-back-feature
+42.120.160.5
+0 1 1 9802 0 0
+-
+46.19.85.54
+0 1 1 12048 1 1433878595
+/node/52
+msnbot-157-55-39-187.search.msn.com
+0 5 5 16284 5 1434834485
+/content/כללי
+46.19.86.174
+0 96 81 1599996 2 1434984466
+/media/46/format-form
+78.153.148.67
+0 2 0 675 0 0
+-
+msnbot-157-55-39-142.search.msn.com
+0 7 6 17079 5 1433939195
+/user/password
+46.19.86.237
+0 1 1 21765 1 1434106040
+/content/הצעות-לפיצרים-ורעיונות-נוספים
+crawl-81-144-138-34.wotbox.com
+0 18 18 56497 1 1434664052
+/user/login
+5.28.174.18
+0 102 85 1289971 2 1434466424
+/
+185.60.230.151.v-net.pro
+0 1 1 13589 1 1434323960
+/
+46.19.85.193
+0 6 0 18428 2 1434526429
+/node/31
+ip-176-195-89-28.bb.netbynet.ru
+0 1 1 12780 1 1433739681
+/
+msnbot-207-46-13-17.search.msn.com
+0 13 10 29715 6 1434993745
+/content/גודל-מסך-ה-viewer
+msnbot-157-55-39-144.search.msn.com
+0 1 0 318 0 0
+-
+120.207.104.109.bergon.net
+0 1 0 313 0 0
+-
+dynamicip-95-79-176-150.pppoe.nn.ertelecom.ru
+0 2 1 13920 1 1434818430
+/
+crawl-66-249-65-111.googlebot.com
+0 14 9 18075 1 1434121717
+/
+94.103.232.247
+0 2 1 4266 1 1434909481
+/
+46.19.85.140
+0 10 9 60047 1 1433783465
+/node/45
+msnbot-207-46-13-114.search.msn.com
+0 10 10 28340 5 1434140716
+/user/login
+46.19.85.150
+0 11 9 62907 1 1433712526
+/node/43
+msnbot-157-55-39-193.search.msn.com
+0 2 2 6744 2 1434562706
+/content/בעיה-במספר-דף
+111.12.251.162
+0 1 0 309 0 0
+-
+msnbot-157-55-39-196.search.msn.com
+0 4 4 12951 1 1434310116
+/user/login
+213.231.57.37.triolan.net
+0 1 1 12780 1 1433130077
+/
+sol-fttb.253.113.118.46.sovam.net.ua
+0 1 1 13589 1 1433949154
+/
+msnbot-157-55-39-21.search.msn.com
+0 6 5 18472 5 1434651539
+/content/בעיה-במספר-דף
+5.251.150.40
+0 1 1 13589 1 1434526730
+/
+176.15.3.88
+0 1 1 12780 1 1433168691
+/
+119.81.3.252-static.reverse.softlayer.com
+0 1 0 510 0 0
+-
+75.126.164.240-static.reverse.softlayer.com
+0 1 0 294 0 0
+-
+sc-victorya.vpn.mgn.ru
+0 1 0 318 0 0
+-
+lan-84-240-9-6.vln.skynet.lt
+0 2 1 23617 1 1434251004
+/
+178-137-215-236-broadband.kyivstar.net
+0 1 1 13589 1 1434568424
+/
+198.204.225.114
+0 5 5 67945 4 1434668838
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+bzq-84-109-180-161.cablep.bezeqint.net
+0 13 5 77742 2 1435042864
+/node/56
+122.13.pppoe.mari-el.ru
+0 2 1 13907 1 1435036753
+/
+46.19.85.81
+0 1 0 0 1 1435042746
+/node/56
+46.19.86.209
+0 11 9 60365 1 1435039070
+/node/60
+crawl-66-249-65-108.googlebot.com
+0 1 1 3330 1 1435030218
+/content/כללי
+google-proxy-66-249-93-222.google.com
+0 1 1 3953 1 1435039590
+/
+85-250-245-143.bb.netvision.net.il
+0 2 1 18222 2 1435042312
+/node/56
+46.19.85.130
+0 10 7 77405 1 1435037315
+/content/failed-status-500-internal-server-error
+46.19.86.94
+0 4 0 41720 2 1435039860
+/content/failed-status-500-internal-server-error
+212.143.122.2
+0 134 117 2763684 9 1435041681
+/content/הצעות-לפיצרים-ורעיונות-נוספים
+dynamic-213-57-145-172.hotnet.net.il
+0 17 14 218277 2 1435039908
+/content/הצעות-לפיצרים-ורעיונות-נוספים
+46-116-160-209.bb.netvision.net.il
+0 16 15 156241 1 1435051168
+/node/58
+# End Of Table - sites (daily)
+# -referrers- 
+http://forum.yadvashem.org/user/password
+0 115
+http://forum.yadvashem.org/node/51
+0 13
+http://forum.yadvashem.org/user/reset/102/1433685534/73kV1g940xSJRkpA9TGblF69HTOlQGO3DMNEYojwRTU
+0 2
+http://forum.yadvashem.org/node/44
+0 10
+http://forum.yadvashem.org/node/34
+0 54
+http://forum.yadvashem.org/users/zvibernhardt
+0 1
+http://forum.yadvashem.org/node/40
+0 19
+http://forum.yadvashem.org/user/reset/136/1433685403/t8ipzkJvPvbJQZl-qFZZGva0iwCfNPRt0zOvXdsAevA
+0 2
+http://forum.yadvashem.org/content/גירסה-10012-ב-ldb
+0 16
+http://forum.yadvashem.org/node/17/group
+0 2
+http://forum.yadvashem.org/content/תיקונים-קטנים
+0 14
+http://forum.yadvashem.org/content/search-history
+0 19
+http://forum.yadvashem.org/comment/reply/41/59
+0 2
+http://forum.yadvashem.org/content/step-back-feature
+0 13
+http://forum.yadvashem.org/admin/groups
+0 1
+http://forum.yadvashem.org/sites/all/libraries/ckeditor/skins/kama/editor.css
+0 28
+http://forum.yadvashem.org/content/עדכון-גרסת-בסיס-נתונים-בנטויזין
+0 7
+http://forum.yadvashem.org/user/
+0 2
+http://forum.yadvashem.org/admin/people
+0 4
+http://forum.yadvashem.org/node/16/edit
+0 9
+http://forum.yadvashem.org/content/סינון-לפי-קלסטרים
+0 30
+http://forum.yadvashem.org/node/57
+0 14
+http://forum.yadvashem.org/content/סימנים-דיאקריטים-ü
+0 4
+http://forum.yadvashem.org/user/reset/107/1434006545/am4vhI5r8FANpN3lMKl14jmfvMk_jrRwgbpgNUQADRc
+0 2
+http://forum.yadvashem.org/content/uxui-חווית-משתמש-0
+0 62
+http://forum.yadvashem.org/content/הצגת-קלסטר
+0 25
+http://forum.yadvashem.org/users/irisrosenberg
+0 1
+http://forum.yadvashem.org/node/59
+0 24
+http://forum.yadvashem.org/comment/reply/41/54
+0 5
+http://forum.yadvashem.org/comment/reply/36
+0 2
+http://forum.yadvashem.org/user/reset/136/1433754066/D8BDl4cxDtDr99FPz-fIT-F2qFQukSfDai0xEp3vWLE
+0 2
+http://forum.yadvashem.org/user/reset/101/1433685512/3lwjxpYh63NWIzfP9Vx4lKh-d71cgAaJwdvV9tkoayw
+0 2
+http://forum.yadvashem.org/comment/reply/41/53
+0 15
+http://forum.yadvashem.org/comment/reply/48
+0 15
+http://forum.yadvashem.org/user/reset/139/1433685459/QuqxYSsLMRu82rugGvK_WpoV3EmmJzAQhDZ66i2nefE
+0 2
+http://forum.yadvashem.org/sites/default/files/css/css_R-slMEj6rJBamqClUE8NGYB_qxwBfAW582ITDGL3RBQ.css
+0 8
+http://forum.yadvashem.org/content/הערות-ושאלות-על-מבנה-הפורום
+0 11
+http://forum.yadvashem.org/comment/reply/41
+0 26
+http://forum.yadvashem.org/node/38
+0 28
+http://forum.yadvashem.org/admin/users
+0 51
+http://forum.yadvashem.org/users/yaelgherman
+0 1
+http://forum.yadvashem.org/content/הפורום-מאד-מאד-איטי
+0 1
+http://forum.yadvashem.org/user/reset/100/1433685492/i08ghEfJdtXkMUD-cj2m0W1XoEzTOW0Mf2YhOx3V660
+0 11
+http://forum.yadvashem.org
+0 10
+http://www.google.com/search
+0 1
+http://forum.yadvashem.org/node/61
+0 13
+http://forum.yadvashem.org/content/כנס-גניולוגיה-5-10-יולי-2015
+0 11
+http://forum.yadvashem.org/users/esthervoloshin
+0 1
+http://forum.yadvashem.org/node/36
+0 1
+http://forum.yadvashem.org/node/17/edit
+0 4
+http://forum.yadvashem.org/node/47
+0 42
+http://forum.yadvashem.org/content/תיאור-מקורות
+0 9
+http://forum.yadvashem.org/user/139/edit
+0 7
+http://forum.yadvashem.org/group/node/17/unsubscribe
+0 2
+http://forum.yadvashem.org/user/reset/102/1434973928/cdZjaT1n9ikWNI4NHyrTU1AroPRhafzNg8U4PVmlRWM
+0 4
+http://forum.yadvashem.org/content/משהו-נדפק-בפורום
+0 18
+http://forum.yadvashem.org/content/אימג-לא-נפתח
+0 100
+http://forum.yadvashem.org/node/54
+0 25
+http://forum.yadvashem.org/user/reset/94/1434950269/E43iK4eSyy5gAKBp1zVz9eXSLXTn1YmYFaYAAvLvRGw
+0 2
+http://forum.yadvashem.org/comment/reply/47/60
+0 2
+http://forum.yadvashem.org/comment/reply/35
+0 1
+http://forum.yadvashem.org/content/הסבת-שטוחים-למקובצים-בספיר-במאגר-השמות
+0 8
+http://forum.yadvashem.org/node/32
+0 26
+http://forum.yadvashem.org/content/פורום-כללי-אחד-או-כמה-פורומים-0
+0 10
+http://forum.yadvashem.org/node/58
+0 26
+http://forum.yadvashem.org/content/הסכסוך-בין-סטיבן-מורס-לאליס-איילנד
+0 10
+http://forum.yadvashem.org/comment/reply/37
+0 2
+http://forum.yadvashem.org/comment/reply/29
+0 2
+http://forum.yadvashem.org/teacherita/
+0 2
+http://forum.yadvashem.org/node/55/edit
+0 20
+http://forum.yadvashem.org/comment/reply/38
+0 21
+http://forum.yadvashem.org/comment/reply/31/67
+0 2
+http://forum.yadvashem.org/node/52
+0 12
+http://forum.yadvashem.org/teacherita/login_user.asp
+0 1
+http://elitesportsadvisor.com/about-us/
+0 1
+http://forum.yadvashem.org/admin/people/create
+0 20
+http://forum.yadvashem.org/node/16/group
+0 2
+http://forum.yadvashem.org/group/node/17/subscribe/og_user_node
+0 2
+http://forum.yadvashem.org/content/הצעות-לפיצרים-ורעיונות-נוספים
+0 70
+http://forum.yadvashem.org/batch
+0 18
+http://forum.yadvashem.org/comment/reply/32/37
+0 2
+http://forum.yadvashem.org/comment/84/delete
+0 2
+http://forum.yadvashem.org/namesproject/forum_topics.asp
+0 5
+http://forum.yadvashem.org/user/102/edit
+0 16
+http://www.yadvashem.org/yv/es/education/index.asp
+0 1
+http://forum.yadvashem.org/content/גירסה-חדשה-ל-yvng
+0 1
+http://forum.yadvashem.org/content/גירסה-10010
+0 4
+http://forum.yadvashem.org/comment/reply/34
+0 17
+- (Direct Request)
+0 1311
+http://forum.yadvashem.org/user/reset/109/1433685343/o7zOOv-YG4sJQaiZs_B3sKlzitvhKU441QN-RXiW6UY
+0 2
+http://forum.yadvashem.org/sites/default/files/css/css_gz-79-D3oRiKFLG79ecl4JlFLLkQg_LUiFhsNEou218.css
+0 7
+http://forum.yadvashem.org/content/ייצוא-נתונים-בפורמט-gedcom
+0 18
+http://forum.yadvashem.org/node/31
+0 41
+http://forum.yadvashem.org/admin/discuss
+0 22
+http://forum.yadvashem.org/content/פורום-כללי-אחד-או-כמה-פורומים
+0 5
+http://forum.yadvashem.org/comment/reply/39
+0 4
+http://forum.yadvashem.org/node/53
+0 44
+http://forum.yadvashem.org/content/חסר-ה-disclaimer
+0 21
+http://forum.yadvashem.org/comment/reply/56
+0 47
+http://forum.yadvashem.org/teacherita/forum_posts.asp
+0 1
+http://forum.yadvashem.org/comment/reply/44/55
+0 2
+http://forum.yadvashem.org/comment/reply/46/72
+0 16
+http://forum.yadvashem.org/sites/default/files/css/css_oWys1WugAX8B9KBrVBOotjdvIrrbbvVibsrFcr446pM.css
+0 4
+http://forum.yadvashem.org/node/46
+0 62
+http://forum.yadvashem.org/user/109/edit
+0 10
+http://forum.yadvashem.org/user/84/edit
+0 4
+http://forum.yadvashem.org/content/ערכי-שדות-באותיות-גדולות
+0 4
+http://forum.yadvashem.org/node/41
+0 181
+http://forum.yadvashem.org/users/doritnovak
+0 1
+http://www.pageglimpse.com/forum.yadvashem.org
+0 1
+http://forum.yadvashem.org/user
+0 28
+http://forum.yadvashem.org/users/sigalarieerez
+0 1
+http://forum.yadvashem.org/user/reset/108/1434954732/o8j5IISwKm0uGOoEHTWKMgdwOOoXf573bdxfx3qcZH8
+0 2
+http://forum.yadvashem.org/user/reset/100/1434385465/ySedlO2wSJYSqiR8CrhEL_1g1sZnwirCbBlNwlY-bD0
+0 2
+http://forum.yadvashem.org/content/שם-משפחה-חסר
+0 5
+http://forum.yadvashem.org/node/28
+0 10
+http://forum.yadvashem.org/user/108/edit
+0 12
+http://forum.yadvashem.org/comment/reply/52
+0 2
+http://forum.yadvashem.org/comment/reply/41/58
+0 2
+http://forum.yadvashem.org/content/רישום-יוזרים-וקישור-ביניהם
+0 3
+http://forum.yadvashem.org/content/תפקוד-המפה
+0 11
+http://forum.yadvashem.org/media/44/format-form
+0 5
+http://forum.yadvashem.org/node/33
+0 12
+http://forum.yadvashem.org/node/55
+0 54
+http://forum.yadvashem.org/comment/reply/32/40
+0 2
+http://forum.yadvashem.org/user/106/edit
+0 16
+http://forum.yadvashem.org/comment/reply/46
+0 6
+http://alex-myzuka.livejournal.com
+0 1
+http://forum.yadvashem.org/node/37
+0 1
+http://forum.yadvashem.org/teachereng/forum_posts.asp
+0 26
+http://forum.yadvashem.org/comment/reply/31/43
+0 2
+http://forum.yadvashem.org/robots.txt
+0 1
+http://forum.yadvashem.org/sites/default/files/css/css_eN1A3xB3Jz0hLbNEbJdwBk-pYEFX2_5FR9r_a5o4ufU.css
+0 4
+http://forum.yadvashem.org/comment/reply/47
+0 2
+http://forum.yadvashem.org/user/reset/139/1433738925/r5C6fiuBk1WAqlzO6kd3z_F5Lj-75qxeP4bTE2qh1Go
+0 2
+http://forum.yadvashem.org/node/47/edit
+0 6
+http://forum.yadvashem.org/node/60
+0 24
+http://forum.yadvashem.org/comment/reply/22
+0 13
+http://forum.yadvashem.org/
+0 398
+http://forum.yadvashem.org/content/בעיה-בסיפור
+0 9
+http://forum.yadvashem.org/content/כללי
+0 92
+http://forum.yadvashem.org/node/45
+0 21
+http://forum.yadvashem.org/user/reset/104/1432820536/g05cn-FnBMRyCIw-UagjSLncWq5PeMPoWoqNrlJguw8
+0 2
+http://forum.yadvashem.org/comment/reply/34/38
+0 2
+http://forum.yadvashem.org/teachereng/
+0 2
+http://forum.yadvashem.org/comment/74/edit
+0 11
+https://www.google.co.il/
+0 2
+http://forum.yadvashem.org/sites/default/files/css/css_kczdk8GWOtnSm53bXp5ZvOT6IIvlhlXbwuG_LN8xs1E.css
+0 22
+http://forum.yadvashem.org/comment/reply/41/64
+0 2
+http://forum.yadvashem.org/user/reset/137/1433685427/5pTsoDs2UhLZTXeL9c7DjC72irPYDGdUrAcubTrL9mA
+0 2
+http://forum.yadvashem.org/node/56
+0 59
+http://forum.yadvashem.org/comment/reply/38/70
+0 15
+http://forum.yadvashem.org/user/login
+0 1
+http://forum.yadvashem.org/users/cynthiawroclawski
+0 1
+http://forum.yadvashem.org/user/reset/102/1434022095/buq2Vr2OTNneIMhbwvQMAOIunoTbs8pghVK7XMFHmuQ
+0 2
+http://forum.yadvashem.org/user/94/edit
+0 4
+http://forum.yadvashem.org/comment/reply/56/79
+0 18
+http://forum.yadvashem.org/user/107/edit
+0 15
+http://forum.yadvashem.org/content/דיווח-תקלות
+0 200
+http://forum.yadvashem.org/comment/reply/53
+0 15
+http://forum.yadvashem.org/comment/reply/45
+0 6
+http://forum.yadvashem.org/comment/reply/28
+0 2
+http://forum.yadvashem.org/user/reset/108/1433685324/Nh9gPb9eQA-dBcivUfWHigiIQAvWMI9xNBxBkjc7nW8
+0 12
+http://forum.yadvashem.org/teachereng/get_last_post.asp
+0 21
+http://forum.yadvashem.org/node/42/edit
+0 10
+http://forum.yadvashem.org/user/105/edit
+0 4
+http://forum.yadvashem.org/comment/reply/58
+0 2
+http://forum.yadvashem.org/user/reset/106/1434028731/pPgtJTlrCmiUD47PF0bWkXF8tU5a4Z9eTDMH9xptaQ8
+0 2
+http://forum.yadvashem.org/comment/reply/31
+0 17
+http://forum.yadvashem.org/node/29
+0 15
+http://forum.yadvashem.org/user/27/edit
+0 4
+http://forum.yadvashem.org/node/48
+0 15
+http://krasmer.ru/go.php
+0 8
+http://forum.yadvashem.org/user/104/edit
+0 5
+http://forum.yadvashem.org/namesproject/active_topics.asp
+0 24
+http://forum.yadvashem.org/media/browser
+0 136
+http://forum.yadvashem.org/user/reset/106/1434028611/R4oXFW6XkIl0lgnT3-uJNNoeQvy44dzKJsLEHyCSqVk
+0 2
+http://forum.yadvashem.org/content/ציור-מסלול-על-המפה
+0 13
+http://forum.yadvashem.org/content/גודל-מסך-ה-viewer
+0 27
+http://forum.yadvashem.org/node/39
+0 5
+http://forum.yadvashem.org/node/49
+0 7
+http://forum.yadvashem.org/content/refine-your-search
+0 18
+http://forum.yadvashem.org/content/פיצר-דיווח-על-תקלות
+0 10
+http://forum.yadvashem.org/user/140/edit
+0 3
+http://forum.yadvashem.org/comment/reply/60
+0 2
+http://forum.yadvashem.org/user/reset/84/1434278458/Z7vWmIQGhB34psB-nIDzP3zH-8wnWj6Is8EtzCseyLk
+0 2
+http://forum.yadvashem.org/content/גירסה-10013-ב-ldb
+0 11
+http://forum.yadvashem.org/content/פורום-יד-ושם
+0 44
+http://forum.yadvashem.org/node/43
+0 22
+http://forum.yadvashem.org/comment/reply/44
+0 8
+http://tinyurl.com/krimfest
+0 10
+http://forum.yadvashem.org/comment/83/delete
+0 2
+http://forum.yadvashem.org/content/קבלת-מיילים
+0 1
+http://forum.yadvashem.org/media/46/format-form
+0 5
+http://forum.yadvashem.org/node/42
+0 15
+http://forum.yadvashem.org/user/reset/105/1433848301/2ex9BoNcc9n7FxxQy9pILqm9f3zs8bfXzOVeV29gqH0
+0 2
+http://forum.yadvashem.org/user/reset/107/1434956679/rY94E1yiZdEHwG29NaXAc6ew3GP_1SO7RcZ4P01RXFE
+0 2
+http://forum.yadvashem.org/users/litalbeer
+0 1
+http://forum.yadvashem.org/media/45/format-form
+0 5
+http://forum.yadvashem.org/user/100/edit
+0 21
+http://forum.yadvashem.org/user/137/edit
+0 6
+http://forum.yadvashem.org/comment/reply/43
+0 17
+http://forum.yadvashem.org/user/101/edit
+0 16
+http://forum.yadvashem.org/node/add/discuss
+0 192
+http://forum.yadvashem.org/content/failed-status-500-internal-server-error
+0 16
+http://forum.yadvashem.org/user/reset/106/1433685363/nF0Lh4FVZ0IQDaMHtHzEOMMq4FJeF-CQda-IlRrs7IA
+0 2
+http://forum.yadvashem.org/node/50
+0 26
+http://forum.yadvashem.org/comment/reply/31/35
+0 15
+http://tinyurl.com/motofest2015
+0 15
+http://forum.yadvashem.org/user/136/edit
+0 7
+http://forum.yadvashem.org/comment/reply/59
+0 15
+http://forum.yadvashem.org/users/danaporat
+0 1
+http://forum.yadvashem.org/content/גירסה-1009
+0 14
+http://forum.yadvashem.org/content/advanced-search-תקלה
+0 11
+http://forum.yadvashem.org/sites/default/files/css/css_ZzfcXr6F8TVaEC1tqwCH3mrWDo1PZL2gtEy5Y7-GBSk.css
+0 2
+http://forum.yadvashem.org/sites/default/files/css/css_1IPY1A8ooBlfDk0A39LbR7mqwp8b5PoaQGUN-oYphbw.css
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0
+0 736
+Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+0 13
+Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B466 Safari/600.1
+0 16
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+0 50
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 91
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+0 40
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview) Chrome/27.0.1453 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; oBot/2.3.1; http://filterdb.iss.net/crawler/)
+0 3
+Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google favicon
+0 20
+Mozilla/5.0 (compatible; meanpathbot/1.0; +http://www.meanpath.com/meanpathbot.html)
+0 8
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36
+0 8
+Mozilla/5.0 (compatible; SputnikBot/2.3; +http://corp.sputnik.ru/webmaster)
+0 9
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:2.0b11pre) Gecko/20110129 Firefox/4.0b11pre
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; T312461)
+0 2
+Mozilla/5.0 (Windows NT 6.1; rv:33.0) Gecko/20100101 Firefox/33.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+0 64
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)
+0 11
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 YaBrowser/14.10.2062.12061 Sa
+0 3
+Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.17
+0 4
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.65 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.31 (KHTML, like Gecko)
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.65 Safari/537.36 OPR/26.0.1656.24
+0 4
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 YaBrowser/15.2.2214.3645 Safari/537.
+0 3
+Mozilla/5.0 (iPad; CPU OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D167 Safari/9537.5
+0 17
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:2.0b8) Gecko/20100101 Firefox/4.0b8
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+0 88
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36 OPR/28.0.1750.48
+0 3
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
+0 53
+psbot/0.1 (+http://www.picsearch.com/bot.html)
+0 5
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+0 12
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+0 10
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+0 11
+msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari
+0 456
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
+0 8
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 58
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.94 Safari/537.36
+0 56
+Mozilla/5.0 (X11; U; Linux amd64; en-US; rv:5.0) Gecko/20110619 Firefox/5.0
+0 18
+Mozilla/5.0 (compatible; Blekkobot; ScoutJet; +http://blekko.com/about/blekkobot)
+0 2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 320
+Mozilla/5.0 (Linux; Android 4.3; GT-I9300 Build/JSS15J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mobile Sa
+0 9
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; InfoPath.2)
+0 10
+Mozilla/5.0 (X11; Linux x86_64; rv:2.0b9pre) Gecko/20110111 Firefox/4.0b9pre
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:26.1) Gecko/20100101 Firefox/26.0
+0 12
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.65 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+0 11
+Mozilla/5.0 (Windows NT 5.1; rv:33.0) Gecko/20100101 Firefox/33.0
+0 6
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .N
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
+0 13
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 YaBrowser/14.10.2062.12061 Safari/53
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Sa
+0 167
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+0 5
+Mozilla/5.0 (Linux; U; Android 4.0.2; en-us; Galaxy Nexus Build/ICL53F) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mo
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 1.
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
+0 11
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12D508 Safar
+0 38
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
+0 13
+Mozilla/5.0 (Windows NT 5.2; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
+0 2
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36
+0 7
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET4.0C; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0
+0 97
+Wotbox/2.01 (+http://www.wotbox.com/bot/)
+0 18
+DoCoMo/2.0 P900i(c100;TB;W24H11) (compatible; ichiro/mobile goo;+http://search.goo.ne.jp/option/use/sub4/sub4-1/)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 234
+Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)
+0 9
+CCBot/2.0 (http://commoncrawl.org/faq/)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; de-LI; rv:1.9.0.16) Gecko/2009120208 Firefox/3.0.16 (.NET CLR 3.5.30729)
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 13
+Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B440
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
+0 3
+Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 2.
+0 1
+MobileSafari/600.1.4 CFNetwork/711.3.18 Darwin/14.0.0
+0 4
+Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537
+0 10
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.65 Safari/537.36
+0 15
+Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/)
+0 10
+Mozilla/5.0+(compatible;+PiplBot;++http://www.pipl.com/bot/)
+0 4
+Mozilla/5.0 (Linux; Android 4.4.2; LG-D618 Build/KOT49I.A1421923764) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.
+0 15
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.65 Safari/537.36 OPR/26.0.1656.24
+0 5
+Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Firefox/31.0
+0 21
+Mozilla/5.0 (Linux; Android 5.1.1; Nexus 4 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mobile S
+0 21
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.65 Safari/537.36
+0 6
+YisouSpider
+0 6
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1;)
+0 1
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 9
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 YaBrowser/14.10.2062.12061 Sa
+0 1
+Mozilla/5.0 (Linux; U; Android 4.4.2; he-il; GT-N7100 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 38
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
+0 3
+nutch-1.4/Nutch-1.4
+0 2
+Mozilla/5.0 (X11; U; Linux i686; pl-PL; rv:1.9.0.2) Gecko/2008092313 Ubuntu/9.25 (jaunty) Firefox/3.8
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 22
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+0 241
+izsearch.com
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 YaBrowser/14.10.2062.12521 Safari/53
+0 2
+Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48
+0 9
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0)
+0 7
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+0 142
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
+0 28
+Mozilla/5.0 (Windows NT 6.1; rv:37.0) Gecko/20100101 Firefox/37.0
+0 31
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+0 310
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRA 5.10 (build 5339); GTB7.5; .NET CLR 2.0.50727; .NET CLR 3
+0 6
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)
+0 1
+ZumBot/1.0 (ZUM Search; http://help.zum.com/inquiry)
+0 2
+Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
+0 309
+Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/5.0.342.1 Safari/533.2
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+0 125
+Mozilla/5.0 (compatible; MSIE or Firefox mutant; not on Windows server;) Daumoa/4.0
+0 6
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) )
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 43
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 120
+Opera/9.80 (Windows NT 5.1) Presto/2.12.388 Version/12.17
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36 OPR/28.0.1750.48
+0 10
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0
+0 2
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.66 Safari/537.36
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-GB; rv:1.9.2.9) Gecko/20100824 Firefox/3.6.9 ( .NET CLR 3.5.30729; .NET CLR 4.0.2
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; GT-I9301I Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile 
+0 32
+Mozilla/3.0 (compatible; Indy Library)
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 491
+Mozilla/5.0 (compatible; oBot/2.3.1; +http://filterdb.iss.net/crawler/)
+0 2
+Mozilla/5.0 (Windows NT 6.1; rv:26.0) Gecko/20100101 Firefox/26.0
+0 3
+Mozilla/5
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506)
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.65 Safari/537.36 OPR/26.0.1656.24
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; Win64; AMD64)
+0 3
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

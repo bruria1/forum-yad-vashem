@@ -1,0 +1,17 @@
+@import "bear";
+
+//
+// Tabs
+//
+.tabs-primary,
+.tabs-secondary {
+  @include tab-container;
+
+  &__tab {
+    @include tab;
+  }
+
+  &__tab-link {
+    @include tab-link;
+  }
+}

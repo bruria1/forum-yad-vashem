@@ -1,0 +1,42 @@
+diff --git a/og_field_access/og_field_access.module b/og_field_access/og_field_access.module
+index 000ace9..2c1fdce 100644
+--- a/og_field_access/og_field_access.module
++++ b/og_field_access/og_field_access.module
+@@ -15,6 +15,11 @@ function og_field_access_field_access($op, $field, $entity_type, $entity, $accou
+     return;
+   }
+ 
++  if (og_is_group_audience_field($field['field_name']) && $entity_type == 'user') {
++    // Don't deny access to the group audience field attached to the user.
++    return;
++  }
++
+   if (user_access('administer group')) {
+     return TRUE;
+   }
+@@ -54,19 +59,23 @@ function og_field_access_field_access($op, $field, $entity_type, $entity, $accou
+  */
+ function og_field_access_og_permission() {
+   $perms = array();
+-  foreach (field_info_instances() as $entity => $bundles) {
++  foreach (field_info_instances() as $entity_type => $bundles) {
+     foreach ($bundles as $bundle => $bundle_value) {
+       if (empty($bundle_value)) {
+         continue;
+       }
+ 
+-      if (!og_is_group_type($entity, $bundle) && !og_is_group_content_type($entity, $bundle)) {
++      if (!og_is_group_type($entity_type, $bundle) && !og_is_group_content_type($entity_type, $bundle)) {
+         continue;
+       }
+ 
+       foreach ($bundle_value as $field_name => $value) {
+         $label = $value['label'];
+ 
++        if (og_is_group_audience_field($field_name) && $entity_type == 'user') {
++          continue;
++        }
++
+         $perm = 'view ' . $field_name . ' field';
+         $perms[$perm] = array(
+           'title' => t('View @label field', array('@label' => $label)),

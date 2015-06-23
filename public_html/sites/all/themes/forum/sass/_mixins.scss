@@ -1,0 +1,89 @@
+// @file
+// Custom sass mixins
+//
+// Define the custom mixins for your project here.
+// http://sass-lang.com/docs/yardoc/file.SASS_REFERENCE.html#defining_a_mixin
+
+// Makes an element visually hidden, but accessible.
+// @see http://snook.ca/archives/html_and_css/hiding-content-for-accessibility
+@mixin element-invisible {
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  @if $legacy-support-for-ie6 or $legacy-support-for-ie7 {
+    clip: rect(1px 1px 1px 1px); // IE6 and IE7 use the wrong syntax.
+  }
+  clip: rect(1px, 1px, 1px, 1px);
+}
+
+// Turns off the element-invisible effect.
+@mixin element-invisible-off {
+  position: static !important;
+  clip: auto;
+  height: auto;
+  width: auto;
+  overflow: auto;
+}
+
+// Makes an element visually hidden by default, but visible when focused.
+@mixin element-focusable {
+  @include element-invisible;
+
+  &:active,
+  &:focus {
+    @include element-invisible-off;
+  }
+}
+
+// Set the width
+@mixin width {
+  width: 1340px;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 3%;
+  box-sizing: border-box;
+}
+
+// Buttons
+@mixin button {
+  border:none;
+  background-color: $green;
+  padding: 10px 20px;
+  color: #fff;
+  margin-left: 20px;
+  transition: all .5s;
+  -webkit-transition: all .5s;
+  &:hover{
+    opacity: 0.8;
+  }
+}
+
+// Table design
+@mixin table {
+  width: 100% !important;
+  thead {
+    background-color: $turkiz;
+    color: #fff;
+  }
+  tr {
+    height: 40px;
+  }
+  th {
+    padding: 0 10px;
+  }
+  td {
+    padding: 0 10px;
+  }
+  tbody {
+    tr {
+      background-color: #fff;
+    }
+    tr:hover {
+      background-color: $light-blue;
+    }
+  }
+}
+
+
+
